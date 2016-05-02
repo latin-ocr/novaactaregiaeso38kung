@@ -1,0 +1,51 @@
+DIFFERENTIAL EQUATIONS or THE πω ORDER. 35
+
+and then the equation (58) becomes ἢ
+0⁶[Zdoe -Ι- ndy -ἦ- S {n-ffidzu-m] = Ο ,
+
+because by (57) fida* = only. This case of (58) is evidently the result
+
+β
+
+of the total differentiation of (54). The root Z, therefore, must be rejected,
+
+because it only reproduces the given differential equation with an arbitrary
+constant instead of its right member, 03 and accordingly the solution of
+(54) is to be obtained by means of the auxiliary system (57), (58) and
+
+S(—1)¹· {NJ mvmi = o ...... (co),
+
+from which we finally choose two systems, produced by putting alternate-
+
+ly β Ξ O and οι Ξ O. These two systems then will belong to the two
+
+equations between (54) and (55). These auxiliary equations may, if desi-
+rable, be simplified by the equations
+
+dtr-m = Zr-2·÷1.1· dx -Ι- ;,,,ι-ἨΓΙ ely ...... (61)
+
+(ἱΞΟ,1,2, ..., ‘r and νΞ O,1,2, ..., 72—1).
+This is the general method to integrate partial differential equations
+of the nm order with one dependent and two independent variables, and
+
+may, of course, be applied as well to linear as to non-linear equations.
+We proceed to shew some special cases of it.
+
+1) lee machocl of Charpit to integrate the equation
+F(.v.y‚z‚ ΖΗ), 3011) Ξ Ο ....... (62).
+
+The equation (60) becomes here ζΙνο m— {M Ξ O, whence (57)
+becomes
+
+We have further W0 Ξ agl-0, W, = βζ , in consequence of
+
+which (58) assumes the form
+
+oadal ⁰ -†- βιῖαῌ — dx
+
+αξ -h βη ζμ)
+
+Now putting here alternately β Ξ O and a. Ξ O, we get the system
+
+ 
+

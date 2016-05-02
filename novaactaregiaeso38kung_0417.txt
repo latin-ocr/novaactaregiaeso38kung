@@ -1,0 +1,46 @@
+DIFFEREN'HAL EQUA'HONS OF THE η”’ ORDER. -19
+
+Subtraeting ‘the latter of these equations fr'om the former, we get
+ιι nez μευ-ι
+υἷ’ Ag> - DJ* AY> ÷ S DJ* 521 ἥψω — S Δῖ) DJQMW Σ Ο...(39).
+(ΞΟ ¹:1
+
+Changing iu the first sun] ρ to ρ — 1, the differenee between the
+two sums iu this equation will become
+
+9:1271
+S 'jz-zv) ΔΞ) — DZ) Δΐ) ] :⁸³959 7
+'121
+
+which is a: O by equ. (28). The equations (39), therefore, become iden-
+tieal with (31). Thus
+
+When there are η distinct first inteyrals το (12), they will satiqu tlze
+conditions (33), wlzz'elz must be εαῖίῑξῖῖειῖ, in order that these inteffl·aIs may
+render the eqmctz'ons (15) inteffl‘able.
+
+ἕ. 6.
+The remaininy e'nleyratirms (cml (lerz'm'ny (ff the primiz‘c'ee.
+
+We suppose the equation (20) completely solved.
+
+1) Assuming that this equation has not equal roots, if we ean inte-
+grate the equations (21) and (23) for every one of these roots, we get vn
+distinet first integrals, whieh give such values of the differential eoe'ffieients
+of z of the (ιι-1)’“ order, as will render the equations
+
+dsnjffsv, Ξ :ml-1„ dm -ξ- 2„ 24,ῐῇ dy (ἰ Ξ O, l, 2, (ιι-2)) ...(40)
+
+integi-able. These equations being integrated, we take out the values of
+the differentia] eoeffieients of ε of the (n—2)ffl order and substitute in
+the equations
+
+qugsivi Ξ 3124„ (lm -θ- ,χι-ῶῌῌ ely [ί = O, 1, ⁵2, . . ., (n — 3)] (41),
+
+after the integration of whieh we get expressions for the differential eoeffi-
+eients of ε of the (n —— 3)st order and so ou. Groing on in this way, we
+will finally get 21¹0 and 2o,1 as functions of ω, y and ε. Substituting
+their expressions in the equation
+
+d: = zm, clav -†- 20‚1sly‚
+

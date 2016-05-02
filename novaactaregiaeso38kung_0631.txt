@@ -1,0 +1,59 @@
+TRAITE DE CALCUL GEOMFETRIQUE SUPEROEUR. 33
+
+temps que n converge vers l’infini. Car, en faisant Qffl = (z—a) [(51)]‚
+on aura, puisque ρ = const. et par suite dz = iem . dm [(3)]:
+
+ 
+
+<>
+
+R Σ (ὴγΰ 3 ῗίςα ÷ emm
+
+ξ Ξπο
+
+Mahxtenant, si l‘on dtsssigne par μ 16 plus grand module de l'expres-
+
+[m ΔΓ ρω)
+
+h , en faisant varier ω de Ο ἐι 2π, on aura a l’aide de la
+1--
+90
+
+ 
+
+sion
+
+formule (13): Ι
+
+ἷῑ) < (ἠγ-ΜΨ,
+
+ρ
+ᾱόἰι il ffisulte, μ <Stant finio et ρ > ἦ, (Γειρῑὲε les conditious &tablieffi
+
+limR20.
+
+[1ιῖ x]
+
+Dono, puisque la formule (53) repr<53ente une identice‘ pour tout point
+a÷h Ξι rint-&rietur du cerole P, la scirie du second membre, ‹itendue a
+l'infini, conver-yma. En re1npla9ant, d’apries le 11⁰ 27, les infflgrales par les
+de1·ix⁷‹5es correspoudantes, la formule (53) se transforma dans la formule
+comme de Taylor:
+
+f<a÷m =f(a>÷3} ·f·<a) ΔΓ ζξ-Μα) ψ . -- ..... (ῥῶ)
+
+ou, en changeant a÷h en m,
+
+sev)=f(<1)÷oe——13·f‘(a)†(oe⁷'[—23)3·f''(‹1)†·-· . . . . (56).
+
+On aura donc cet 61101166 important qui s'appelle the‘oreeme de Cauchy:
+La fonction. f.(:') e'tant synectique pour tout point d'wz cerole P et <le Z'az're
+incluse, si Z’on ddsz'qne par a le centre clu cerole et par a—{-h un point ὰ
+son ἱηὲόνῖειιν, la fonction f(a-{-lz) sera deffveloppahle en une sdrie converyente
+d'aprd‘s la formul& cle Ταμὼν.
+
+Le cerole P s'appelle σᾶν-υἷε cle converqence de la sin-ie (16 Taylor.
+Oe cerole bornera done 16 champ (16 synectieite (16 la fonction ἷζε).
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΙΙΙ. 5
+

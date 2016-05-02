@@ -1,0 +1,45 @@
+8 ΟιὸιῑΑΝ DILLNER,
+
+petites, constitue ee que l'on entend par Z’inte‘yrale difinie de Za fonction
+f(2) entre les limites ,το et Z, representee par la notation
+
+E 12, fem) Ξ ζῇεῳῃιε ....... (10).
+
+Nous dirons alors que nous avons inte'yre' la fonction Αἰ) Ze Zony
+du contom' ε ou ΡΟΡΙΡ2 .. . Ρ,, depuis ΖΟ jusqu'c'z Z.
+
+Une integrale definie d'une fonction complexe doit done etre eonsi—
+deree comme un polygone R0R1R2 R„ dont les 6ὀ165 50111 respective—
+ment les termes de la serie (9) et qui, ἐι la limite, 56 transforme en un eon-
+tour courbe que nous appellons contour de cimeyrale. La eorde ROR„ est
+comme chemin egale au polygone R0R1R2 R„ aussi ὲ, la limite, d'osl
+il s'ensuit que la szym'ficatiov d’wze inteyrale (Ze'flm‘e est de repre‘senaer Za corde
+qui joint Ze point initial au point final clu comour de Z'inte'yrale.
+
+12. Des notions 1101111665 au n¹³ precedent il (16601116 (1116 165 formu-
+les eonnues suiv-antes subsistent aussi pour les integrales des fonctions
+complexes.
+
+1⁴¹ La (1116111116 ζ representant uu point du eontour P entre les limites
+20 et Z, on aura la ἴοι-1111116
+
+[υκιὴειπό = ſj3<12>d22÷g}<12>d2 ..... (11).
+
+2Ο En integrant depuis Z jusqu'iz 2¹0, c'est-a-dire, en sommant la se-
+rie (9) dans l’ordre inverse⁷ apres avoir change 111, 112 616. en —h1, —h2 etc„
+on aura
+
+⁸sl.‘}'(12)1:lz=—sf()cz. . . . . , (12),
+
+13. Le medule de la serie (9) etant moindre que la somme des
+modales des termes, ou
+
+mod {h f (ar-1) < ΙΞὶῘιΓ. mods (ΞΗ) ,
+r21 ,τι
+
+il s’ensuit a fortiori, M designant 16 plus grand module (16 f(.·›;) entre les
+limites 20 et Z, que
+
+mod {fif (24⁴1) < M . Σ R. ,
+r=l ΤΞ]
+

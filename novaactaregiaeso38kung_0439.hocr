@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso38kung_0439.png"; bbox 0 0 2097 3062; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 114 630 1609 722">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 114 630 1609 722">
+     <span class='ocr_line' id='line_1_1' title="bbox 114 630 1609 722; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 114 645 254 720; x_wconf 82' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_2' title='bbox 298 643 700 718; x_wconf 75' lang='lat' dir='ltr'><strong>RELATIONS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 744 645 838 716; x_wconf 83' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 882 645 1230 720; x_wconf 62' lang='lat' dir='ltr'><strong>L³AURORE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1275 630 1609 722; x_wconf 79' lang='lat' dir='ltr'>BOREALE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 302 852 1423 931">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 302 852 1423 931">
+     <span class='ocr_line' id='line_1_2' title="bbox 302 852 1423 931; baseline 0 -10"><span class='ocrx_word' id='word_1_6' title='bbox 302 864 368 921; x_wconf 89' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_7' title='bbox 403 863 505 920; x_wconf 85' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_8' title='bbox 542 863 993 920; x_wconf 81' lang='lat' dir='ltr'>PERTURBATIONS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1031 852 1423 931; x_wconf 75' lang='lat' dir='ltr'><strong>MAGNETIQUES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 323 1190 1400 1270">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 323 1190 1400 1270">
+     <span class='ocr_line' id='line_1_3' title="bbox 323 1190 1400 1270; baseline 0.001 -9"><span class='ocrx_word' id='word_1_10' title='bbox 323 1203 418 1261; x_wconf 84' lang='lat' dir='ltr'>LES</span> <span class='ocrx_word' id='word_1_11' title='bbox 455 1191 825 1260; x_wconf 78' lang='lat' dir='ltr'><strong>PHENOMENES</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 863 1190 1400 1270; x_wconf 19' lang='lat' dir='ltr'><strong>bxlETEOROfflGIQUES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 592 1649 1123 1689">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 592 1649 1123 1689">
+     <span class='ocr_line' id='line_1_4' title="bbox 592 1649 1123 1689; baseline -0.004 -1"><span class='ocrx_word' id='word_1_13' title='bbox 592 1651 712 1689; x_wconf 92' lang='lat' dir='ltr'>L.-A.</span> <span class='ocrx_word' id='word_1_14' title='bbox 741 1649 1123 1689; x_wconf 80' lang='lat' dir='ltr'>FORSSMAN.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,42 @@
+4 Η. GYLDEN,
+
+et nous recevons avec l’exactitude dissime:
+
+φ = πα - το) -Ι-ιβιῑᾱι — Ootang &inp Sin122(c—t0)÷ q Cos n(t—10)]dt,
+
+θ = 60÷sipCosnot—to)—qSinn(t—t0)]clt‚
+
+lo
+
+,ψ z ψ.) &HAS-⁰ [p Sin πα - το) ψ φ Cos πα - t0)] dt .
+
+Rieu ne nous empssche (16 prendre comme &gale ἐι ΖὲιὉ la derniere
+(les trois constantes nto, θο et 40 introduites pai· l’inttssgration. Nous som-
+mes, par contre, foress d’adnlettre pour &0 nne valeur finie, car sans cela les
+dsveloppements en se'zries dont les forninles ‹zi-<lessus constituent les pre·
+miers termes, ne convergeraient pas. En posant
+
+lc :ism ἰ
+
+t..
+
+l:siPSi11⁹²(t—-t0)†qus⁷2(t—t0)]‹lt . . . (5),
+
+m- Ξίὶῑ]ΟΟεπ(ὐ-ΐο)-(]81ηή(ί-ΐο)](ἷύ J
+
+on obtient, tout en continuant ἐι n'avoir &gard qu’aux quantitss du premier
+ordre, et, par consequent, 6η ne conservant quo les premieres pnissances
+de lc, l et m:
+
+Sin φ = Sin (κε - fo) <k (lu — l Cotang θο) Cos 7105—- 1²0) ,
+Cos φ z Cos ‘n (t — το) —- (lc —ZCota11g90) Cos oz(c— to),
+Sin θ = Sin 90 ψ m Cos ΘΟ ,
+Cos Θ ——- Cos θο - m Sin 90 ,
+
+Sin = §Ii—5⁰ ‚
+Cos ψ = 1 .
+
+En introdnisant ces valenrs dans les formules (3), il en re'snlte les
+expressions suivantes‚ osi (16 meme les premiteres pnissances (16 lc, ί et m
+sont seules conservses:
+

@@ -1,0 +1,45 @@
+TRA1T15] DE CALCUL GEOMIIJTRIQUE SUPERIEUR. 113
+
+Les fonctions SinK(u>, Cos K(u) et Ulmo.
+
+138. Prenons pour point de dspart l'squation diffe'rentielle (28Ο) 011
+
+du = Ἇ-ῦάη 2 of)-
+Vl—n· . (1—lc nu)-
+et son integrale gfflffirale
+
+u = s isliu* αξξ-ᾖ ἢ) (322),
+alors on aura, suivant la formule (279),
+η = Sin K(u) ........ (323)
+et, suivant la formule (288),
+Ο = Sin K(O) ........ (324) .
+De plus7 on aura, suivant la formule (294),
+Sin K(—21) = —Sin K(u) . . . . . (325) .
+139. Pe'riodz'cite‘. Si l'on pose dans la formule (322)
+Λή) = νῇ, la fonction f(›7) aura deux points d'embranche-
+ment αι = 1, α, = -1, et deux infinis α3 -- {³ οι4 = -ὲ En dessig-
+
+nant par 1 et γ les deux raeines earrses de 1, on aura donc, d'aprss les
+
+ι]ηδ 33 et 34, fl (η) Εἷς), f2(²7) π ‘7550 = f(n), d‘ou proviendront les
+
+ 
+
+deux pe'riodo'aedes suivantes,
+
+wo> = shullcQWn = 2s1mmn Ῑ
+⁰ k . (326).
+
+Q) = slaffl'bfflln = 2s0-lf(²⁷)d²⁷ ἱ
+
+Or, aux limites d’inteigration Ο et ss 1 correspondent les valeurs re-
+spectives Ο et ss}w des quantitss φ et χ [ηο“ 127 et 128], (1ὀὺ l'on tire,
+ἐι l'aide de (289), les valeurs suivantes des periodoides
+
+wffl) = 071‘
+
+........ (327),
+
+ww) = ——C7r
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 15
+

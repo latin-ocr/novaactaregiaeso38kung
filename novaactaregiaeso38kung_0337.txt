@@ -1,0 +1,39 @@
+RECHEROHES SUR LA Ro'rArIoN DE LA TERRE. 7
+
+Transformons maintenant les expressions trouvees‚ de maniese qu'elles
+deviennent des fonctions de p et de q seulement, en introduisant les valeurs
+
+de l et de m d'apres les equations (5). Nous ferons usage pour cela
+des formules
+
+‘sp Sinn(c—-t0)dt=}Cosoz(t— —t077)†¹⁷⁰ †— ⁶33 Cos για ΐο,)(ἷι
+ln ιυ
+sp Cos nst—town = {- Sin n(t—- 1⁴0) —- — 23098111 n (t— t0‚)dc
+
+et de formules identiques quand q entre ἐι la place de p. Par po et qo
+sont designees les valeurs de p et q valables pour le temps ²²0· Nous re-
+cevons de la sorte les expressions suivantes pour ἰ et m:
+
+vzl=p0-—pCOSn(t—t0)4—qSinnG—t0)
+(lp dq
+4-s3 ΞῖῐῖΟοεη(ι-το)-ᾶῖ81ηη(τ-ῑοξ) dt
+wvzlz—q0†pSi11(t—t0-)—} qusn(t—t0)
+—fgclp {lt Sinna—2¹04 ἕῖΟοεη(ι-ῐοξ) (lt
+
+Au lieu des angles ΗΧ, R Y et ΕΖ, nous introduirons leurs diffe-
+renoes de oertains angles eonstants, en posant
+
+ΒΧ 2 }÷ Δ RX,
+
+R)'=}†90†AR1‘‚
+RZ=60÷ARZ‚
+
+et en considerant Δ RX, AR Y et Δ RZ comme (les quantites minimes
+dont les canes peuvent etre neo lcriges3 nous obtenons alors:
+
+- ARX- ἡ p—Ar—sffl Oosn(t— 0)—Z—?Sinoz(t—t0)}dt
+-ΔΕῩΞξι-ᾸΓΤ ΞᾱῖΞῙΜᾱ-το-Ὴῑἵξξῦοεη(ι-το)ξιιι ”’(9)“
+
+ln
+—ARZ=ARZ. J
+

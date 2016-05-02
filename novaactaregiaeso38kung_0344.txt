@@ -1,0 +1,45 @@
+14 Η. (monn,
+
+lesqulles expriment, comme on le snit, que les axes (16 ω’, ssl‘ et ε’ eo'l'nei-
+(16111 avee les direetions <les momente d'inertie principales (lu corps en ro-
+tation.
+
+Dans ee qui suit, nous admettrons que l’angle forme par les direc-
+tions (le :1 et de ε’, est tres-petit, (16 sorte que le carre en peut etre ne-
+glige. 81 (lone nous (lesignons eet angle par 1, et les deux autres angles
+par η 61 A, nous pouvons eerire les expressions suivantes pour les neuf
+eosinus οι, β, ete:
+
+οι ἰ COS (η —†- A) ‚
+β -—Sin(27—{—A)⁷
+γ :2 1 8111 A ,
+
+σι’ ’ᾗ Sin (η -1- A) ‚
+β’ Ξ Cos (η 1- A) ⁷
+γ *⁷1 —- 1 COS A,
+
+σθ’ t: 1 Sil] η,
+
+,6 z ι COS η ‚
+
+γ’ 11: 1 .
+
+En substituant ensuite les valeurs (16 w„ ,²11 et :1 exprimees comme
+fonctions de 1, η 61 A, et (16 α”ἳ y' et ε’, (lans les equations (13) et (14),
+011 obstent, relativeinent aux equations (23):
+
+C -1- Cl :s- ((11112 — y¹²)‹lm ‚
+B ’1- Βι ³1 COS (η -l- >0²2² (111ΛΞ —l— 2¹²)‹lm -{— Sin (η -1- )1)(“’Σ,(1]’2 -1- 2¹2)dm,
+A ÷ A1 ,ἲ sm (η -l- &22² <2222 ÷ 2¹2>ch ΔΓ eos& ΔΓ λγῑ (31¹2 1 facim,
+C‘ :2 Sin (η 4- A) Cos (η ή- A){E(ffl¹2 -{- 2¹²)clm — Σ (3st2 -1- 2¹²) dm}‚
+B¹ :- 18111 η Cos η Cos A >E (ω’2 —1- :¹2)‹Zm — Σ (y¹2 —†- 2⁴2)dm;
+-1- 18111 η 8111 η 8111 A {E (auf-³ ’1- z¹²)dm -— ΣΘ*2 -l- mmm}
+— 1 Sin A ὶΣ y⁴² —†- 2‘2) clm -— Σ (11112 -1- 31¹²) dm} ‚
+A‘ ’π 18111 η Cos η 8111 A 22⁴ (1³¹² -{- 2¹²)(Zm —— Σ (zs2 -ἦ- ¹:²²)‹Img
+—— 1 Cos η Cos η Cos A >2¹ (m‘2 -1- 2¹⁴2) clm —- Σ (yffi' ’1- z‘ffl) dm}
+-l- 1 Cos A ξΣ (11112 -1- y¹2)dm —- Σ (31¹2 *l— :¹2)dm} .
+Nous allons introduire quelques abreviations ulterieures (lans ees ex-
+
+pressions, 011 nous avons (leja neglige tous les termes dependant (16 puis-
+sanees de 1 supe’rieures a la premiere. Nous poserons premierement:
+

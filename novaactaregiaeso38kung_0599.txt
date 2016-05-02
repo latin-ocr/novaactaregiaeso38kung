@@ -1,0 +1,41 @@
+1. NOTIONS PRELIMINAIRES.
+
+1. Une fonction f(:) d‘une variable complexe z ou, plus brieve-
+
+ment, une fonction complexe f(z) est dite continue au point a, lorsque la
+difference
+
+f(a-1-hs)—f(a)
+est une quantit& irfinz'mem petite de mdme ordre pour tout point pris le long
+
+d'un contour infiniment petit, decrit par h auteur de a. En tout autre cas,
+la fonction est dite ‹liscontz'mea
+
+On tire immediatement de cette definition le criterium eonnu, quoique
+parfois insuffisant, de la continuite,
+
+lim ‡f(a÷h>—f(a>z = ‚
+
+pour une valeur queleonque de l'argument ἦ quand le module ἶι = O ²¹⁶).
+1
+
+Ainsi, par exemple, la fonction ἷζε) = e³²⁰ est discontz‘nue au point
+1 l
+
+a, parceque la differenee f(a—{-lz) —f (a) = d* —- εὖ peut reeevoir, pour eer-
+
+tains points du contour infiniment petit hm), des valeurs differentes de Ο.
+
+Pour la fonction f(2) = (zriffsslyzj la differenee f(a—}-h)—f(a) est, au
+1 ἧ- 6²*'³ ·
+
+contraire, infiniment petite pour tous les point du eontour 723 mais, comme
+
+’¹‘) Au lieu de representer le modula et Z'czrgyument par mod h et argh nous
+
+les designemus par Τι et Ji, quand la quantite complexe sera, comme ici, representee
+par une seule lettre.
+*ἢ Nous din-ons, pour abreger: le contour Ιι, au lieu de: le eontour decrit
+par Ῐι.
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΠΙ. l
+

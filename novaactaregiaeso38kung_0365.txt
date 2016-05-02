@@ -1,0 +1,53 @@
+SYSTEME DE LIGNES ET DE SURFACES EGALES. 11
+
+b& z y
+
+cos{=—}—, θοεθεω, sinu = fl, tgv=
+
+- bu r m ⁰
+
+Une des surfaees est la sphere elle-meme.
+
+Le second cas d'integrabilite cst celui, οἳ( 1111θ des sursaces est 1111
+plan z = c. Il lui repond la valeur
+φ’ = ιὶ2 .
+
+Ρο111· 1111 φ’ constant, l'equation (16) peut s’integrer separement. Si l’on
+l'ecrit
+
+δεῦε 0 , 2
+
+ῖῖ cossa -Ι- ν5111μ = c,
+elle est lineaire θ11 2², et 011 trouve saus difficulte:
+
+εἳ εξεῖθοεῗμ(φλ-ἱ-χμ), . . . . . . (22)
+011 φλ est une fonction arbitraire, et (111
+
+χμ = 'scos—{fa δμ-
+Les a* et les 31 sont d’apres (12) (13) determines par
+
+ 
+
+αα cos& —†- y sinn = {2327AE (εἳ —— ε2 εἰιιμ) , . . . . (23)
+- a* 8111)( -1- ycosA= ἰ φλ . ....... (24)
+(ἔοὸῧμ
+
+L’enveloppe (111 systeme est une sursace de rotation
+εἳ 5111μ = 0²,
+
+ou bien en coordonnees rcctangulaires
+„6
+
+12³²†y²†2²=}1 .
+
+Elle consiste dc deux nappes symetriqucs par rapport au plan des oey et
+placees au dehors des deux plans paralleles z= ss c7 qu’elles touchent
+daus l'axe des z. Tous les rayons la rencontrent excepte θθιιΧ, quise
+trouvent (lans le plan (les πῃ. La courbe generatrice a 1111 point d’inflexion
+pour
+
+ὲ
+
+Chacun de ses cercles paralleles est l⁷aretc de rebroussemcnt d’une
+des suffaces du systeme3 et chaque ligne, dans laquelle une surface touche
+

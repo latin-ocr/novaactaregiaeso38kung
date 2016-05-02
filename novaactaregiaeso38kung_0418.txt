@@ -1,0 +1,46 @@
+20 Μ. FALK, ΟΝ THE INTEGRArlon 01 PARTIAL
+
+we obtain by its integration the yeneral solution of (12), as each of the first
+integrals involved one arbitrary function.
+
+2) If, however, the equation (20) has equal roots, then we find a
+less number than n distinct first integrals. If from these integrals we
+ean obtain some of ‘the differential coefficients 01 z of the (η —- 1)³l order
+and after their substitution in some of the equations (40) integrate them and
+so go on similarly as in the former case, the solution of (12) will be de-
+pendent on the solution of another partial differentia] equation of an order
+lower by one or more units than the given equation. 11 this new equation
+be linear, we may anew apply the given method to integrate it, if it be
+not linear, the method of the ξ. 8 01 11115 1110111011 must be used to obtain
+its solution, which will in that case usually be a complete or a mixed one.
+
+If the equation (20) cannot be completely solvcd, bnt some of its
+roots are known, the same method, as in the latter ease (when (20) has
+equal roots), must be applied.
+
+Sometimes we may by artifices reduce the latter to the former case
+by taking instead 01 (12) a new equation, such that its equation (20) has
+no equal root, and at the same time such, that its roots become identical
+with the roots of the equation (20), belonging to (12), for certain values of
+some eonstants involved in the new assumed equation. In order then to ob-
+
+tain the general solution of (12) from that of the new equation, the method
+of limits is to be applied.
+
+The equations (11), or those between (10) and (11), sliew,'tllat the
+φ 31111 ψ, which belong 10 3 00113111 11151 integral, are functions only of
+each other, if we consider all quantities, that they involve, except the dif-
+ferential coefficients of z of the (n— 1)·‘l order, as constants3 that is 10
+say: if between φ Ξ οι and ds z β we eliminate any of these differen-
+tial coefficients, all the others will disappear at the same time. We may
+also express that property briefiy thus: φ 31111 ψ 310 111110110115 01 0110 and
+the same function of the differential co'effieients af ε 01 1110 (η- 1)³l order
+31111 involve besides none of them in any other way. This diminishes the
+labour of solving the equation φ ΞῙΝᾸ) with respect 10 the function in
+question, which is necessary for obtaining the expressions for the differen-
+tial coefficients of z of the (n—1)⁸‘ order3 it deserves, however, attention,
+11131 111 general it is impossible to solve the n first integrals with respect
+to these differential coefficients‚ provided these diff. eoeff. really are in-
+volved boch in φ and ψ. But, in this case, we must seek the complete
+primitive of (12) and may then, if the functions φ really involve 1110 diffe-
+

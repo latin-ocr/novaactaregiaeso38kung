@@ -1,0 +1,42 @@
+TRAITIS: DE CALOUL GEOMF'JTRIQUE SUPERIEUR. ·7
+
+11188 complexes, par J. Ηο1181, pag. ΤΟ, 81 Cours de Caleul infi11itesimaL par
+le meme auteur, Π part„ pag. 277}
+
+On reconnait que les regles etablies pour l'evaluation des expressions
+
+de formes indeterminees g, O.00‚ 818, dans 18 eas des fonctions reel-
+les, subsistent aussi pour les fonctions complexes; e’est pourquoi nous lais-
+
+sons (18 eote l’exposition de 888 regles.
+
+10. De la signification de la derivee qui est (1011118 par la formule
+(2) il 81111 immediatement qu'une fonction primitive uniforme f(:) a une
+derivee uniforme f'(:). Mais, au contraire, ἐι 11118 (1811188 (10111188 φ(;) :f'(:)
+reipond un nombre 1111111118 (18 fonctions primitives comme ιγ’(ε), f(:) ÷c [c etant
+une constante} qui sont continues [11⁰ ss, remarque] et 0111 leurs eontours
+egaux et paralleles. L⁷existanee d‘une fonction primitive de chaque fonction
+(10111188 comme derivee est par cela 11181118 (181110111188 geometriquement.
+
+ΠΙ. INTEGRALE DEFINIE D'UNE FONOTION COMPLEXE.
+
+11. Faisons deerire ἐι 2 1111 8011101ιῖ P0P1P2 Pu [fig. 3]‚ en
+
+tous 188 points duquel la fonction f(:) soit syneetique3 posons ensuite
+20: ΟΡ, 51: ΟΡ17 ²2 = OP2‚ ....‚
+
+Fiff· 3· επ 1 Z„ = OP„⁷ et 188 801·(188
+Ρυ P1 = :1—:0 z llll
+Pl ΡΖ, = :2—:1 = Iz2ls (S)
+
+81 designons par Q0Q1Q2 Q„ le 8011-
+tour con-respondam (1881·11 par ἷζε), 011
+fsto) z 01Q0‚ f(³1): Oina f(:2) Ξ 01921
+. . . f(Z) z OlQn⁷ la serie
+
+ 
+
+111f(=0) ÷Jz2f(:1) ÷ -- - 111118- 1) 5111811) 1, 19),
+
+pour lim n = 00, e'est-{z-dire7 pour les cordes h„ Iz2‚ h„ infiniment
+

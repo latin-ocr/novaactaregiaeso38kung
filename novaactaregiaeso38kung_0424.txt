@@ -1,0 +1,41 @@
+26 Μ. FALK, ΟΝ THE INTEGRATION OF PARTIAL
+
+yral will be φ =f(x}), f beiny an arbitrary sanction. In this as well as
+the followiny inteyratiorzs the equatioozs
+
+ἄεν-ιχ,- = ‚rs-141„- cla: -Ι- 3,,-1, ,41 dy ..... (15)
+
+(i= O, 1, 2, r and r: O,1‚2‚...‚(n—l)) may be useel to
+traresform and simplffy.
+
+§a 7.
+
+On parfial dfferential equalions of the form (12), where the
+coiffz'cz'enls U and llee rzquct member V are fimclions of ,τ and ps only
+or eonstsmts.
+
+We shall here prove some properties of these equations, which have
+a remarkable affinity with those theorems‚ that hold for ordinary linear dif-
+ferential equations of the η”’ order.
+
+Theorem I.
+
+If u be aalys particular solution of (12), then its yeneral solution will
+be obtained by addiny to u the yeneral solution of (12), provided its second
+member he = O.
+
+For putting ε = u-}-{‚ whence :flam- = usn-2„- —†- ζη-ῌ, the
+equation (12) becomes
+
+S Ulufflst ψ S U- ζηᾞ, = V.
+ιἐυ ιευ
+
+ίΞιι
+But S U urz—172· = Γ)
+iz«)
+
+because u -is a solution of (12), therefore ζ must satisfy the differential-
+equaffion
+
+§HQ-1„ = Ο ....... (42),
+

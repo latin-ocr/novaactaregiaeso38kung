@@ -1,0 +1,46 @@
+TRAITE DE CALcuL (111011611110013 5016610011, ’3
+
+suite continue de lignes infiniment 11611165 6Χ161160165, (16611165 par f(z),
+lesquelles forment, par consequent, 16 60111001· ferme correspondant de la
+fonction f(:).
+
+Remarque. La reciproque (16 eet 61101166 n'est pas toujours vraie;
+car, une fonction f(:) peut 6116 oecodrome le long d'un eontour ferme sans
+qu'elle 16 5011 necessairement 611 10111 1101111 (16 l'aire du eontour. Par
+
+l
+exemple‚ la fonction (εἳ-1)Ξ 651 oecodrome le long ‹l'un 60111001· (1111 1611-
+ferme les points —4-1 61 —L quoique ceux-ei soient (165 points (1’6111-
+branchement (16 la fonction. Au contraire⁷ 51 11116 fonction n'est pas oeco-
+drome le long (l'un 60111601 ferme, 110115 1101110115 611 6011611116 qu'il y a 1111
+011 plusieurs points d'embranchement au dedans du contour.
+
+4. Une fonction complexe Λα) (1111, (111115 toute l'etendue du plan,
+n'a pas (16 1101111 d'embranchement, 651 11116 fonction uniforme: 611 tout autre
+cas, la fonction 651 generalement multiforme. Neanmoins, 11116 fonction
+multiforme eu general a 1005 165 caracteres ‹l'une fonction uniforme (lans
+chaque region (111 plau qui ne renferme aucun point d’embranchement3 ear⁷
+en pai-tant (1’0116 6611111116 valem· primitive de la 1011611011, 6116 116 1001111111,
+60111016 16 serait 11116 fonction (1660(1101116, 611 tout point (16 66116 region qu⁷une
+
+1
+seule valeur pour chaque valeur (16 ε. Α11151, la fonction (z—afi a 1005
+165 caracteres d'une fonction uniforme (lans chaque region du plan qui ne
+renferme pas le point d⁷embranchement ας ear, 51 011 la fait partir d'une
+certaine valeur premiere, la fonction 116 fournira (lans cette region qu'une
+seule valeus pour chaque valeur (16 z.
+
+5. Une fonction complexe qui 611 1111 1101111 donne ι10011 (165 111011116-
+165 (1’611“6 continue, oecodrome et finio 651 dite synodique cn ce point. Une
+fonction complexe est, en 011116, (1116 synecz‘ique le longy ‹Z'une {cyme ou d'un
+60111001, 51 6116 651 synectique en tous 165 11011115 (16 la ligne ou (111 60111001.
+Enfin, 11116 fonction complexe 651 (1116 synectz'que pom· une aire, 51 6116 651
+synectiquc en tous 165 11011115 (16 l’airc et (lu 60111001· enveloppant. Une telle
+ligne ou aire 651 dite lique. ou aire de syneclz'cz'te' de la fonction. L'aire 651
+aussi dite elzamp ou raeyion de synectz'cz'te‘.
+
+Les points 011 11116 fonction complexe cesse d’etre synectique 50111
+(1115 points critiques. Des que la fonction cesse 611 665 points (l'etre continue,
+oecodrome ou finie elle est (1116 discentium, ammodo-ome ou infinie, et 165 points
+memes sont dits points de discontz'nm'te', d'anoecodromz'e et cl'z'n ἠέ.
+

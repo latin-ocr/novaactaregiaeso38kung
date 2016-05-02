@@ -1,0 +1,52 @@
+28 GORAN DILLNER,
+
+ᾱόὺ 1ὀη conelura cet &noncez
+
+L'inte‘yrale lz‘neaire d'mze fonction f(,3)‚ prise dans Ze sens direct et
+dans le senx re'troyrade Ze {0729 d‘une Zz'yne σοι qui joint un point c du con-
+tour ferme‘ P ὰ un point οι du cerole insinz'ment petit Q qui entoure Ze point
+d'embranchement a comme cancre, sera e'yale ὰ Z‘z'nte'qrale de'fim'e, prise de c
+ὰ αι, de la diffasrence {f(3) —fl (3)}, la fonction f](,3) etant Za valeur que
+reqoz't Za fonction f(3)‚ quand z de'crz‘t ame seule fois Ze contom· du cerole (a).
+
+34. Si F(2) et F1(:) sont les primitives des fonctions respectives
+f(3) et f1(.3)‚ la formula (44) pourra §wire comme il suit:
+
+s'J‘'<-2>022=ls⁰>F(z)—R<2>1 - - - · · · (45)·
+
+Ainsi, en posaut ⁸.3f() = log (,3-α) et par suite f1(,·3²)log Ξ (,3·-α) -1-27ri,
+on aura F(3) = (.3—-a) {log (3 -— (1)-1ζ et F1(.:) = (.3——a) 210g(13—a)—1}
+ἧ- 2 πί 3 ς donc
+
+ob
+
+,[111οἓ·(3--α)(ῖ3 = — Ι, 2πὶ,3 = 27ri(c—oe)‚
+
+οὺ a peut remplacer a, puisque 16 rayon du 661616 Q] ou* mod (a—a)
+est une quantit& qui sbvauouit ἐι la limite.
+
+35. Si les primitivas F(,3) et F1(,:) sont finies au point α, on
+remplacera α, par a dans la formula (45), puisque mod (cz—oc) s’eivanouit
+ἐι la limite.
+
+Par exemple, si l'on a pour but de trouver l’inte'grale lineaire (16 la
+
+ 
+
+fonction f(:.>) = F—VISL—-G, les quantiffis 1, y, 7², ..., 7⁰⁴¹ (ffisignant
+23—a ἰ
+les n racines nff'fflffi dey 1, et o· un nombre entier < ιη, 011 aura
+71—1 „21
+ΜΞ) = “wlg -η F(2) z ,3⁷21ss- (¹⁴7—Ua) '² et R('³)²n÷z-i‘93‘3÷gss) '²
+<2—a)11 w* ν
+et par consequent
+·Ῑ“Ῑ η “¹ Q 1
+sss-‘W = (72—1)7⁰ ⁸ [ζμ-α) '² ·(1—{) .
+
+Nous trouverons (16 cette manibre, pour η = 2 et c: O:
+11¹1
+
+s <iffi = 21:02-(02- [1—(—1)] Σ —4<c—a>÷;
+
+ 
+

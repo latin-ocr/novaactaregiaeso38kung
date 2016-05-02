@@ -1,0 +1,42 @@
+DIFFERENTIAL EQUATIONS OF THE 22²⁴ ORDER. 37
+
+together with what (61) becomes on, when n is put = 2. Here m and
+μ are the two roots of the equation
+ζὲῃυνηῗ-ζινινηψζυῑ2 = O ...... (67);
+
+and, as either of these roots may be used as the value of m, the other
+being that of μ, there will be two auxiliary systems. Now one integral of
+each of these systems together with the given equation will in general give
+the valucs of εΗ, zm and εὼς), and these valucs are then to be sub-
+stituted in
+
+[Ilm] = *eodm -ξ- :lvldgffi <2³0,1 = :lstclffl -ὶ- 20‚2cly,
+
+after the integration of which we get expressions for zm, and :0,1‚ that
+render the equation d: = :1¹0 cla· -Ι- ³0, 1 (ly integrable. This it is easy
+to see⁷ because, independently cf the values of a and β, we get, when
+the roots of (59) arc all uncqual‚ (η -ι- 1) distinct first integrals of the
+linear equation (55)⁷ that render the equations (61) integrable⁷ and among
+these first integrals there will be one (belonging to the root m = Ξ),
+which is a relation involving (54) as a special case, viz
+
+17(χῖ y' ²⁷21.0730217···7:n,02·’·730.⁷³)= [17
+
+A being an arbitrary constant. Putting then A = O, the operation
+is restricted to the investigation of a (complete) primitive of the given equa-
+tion (54), instead of solving the more general problem to seek a primitive
+of (55). The arbitrary quantities οι ancl β may⁷ of course, be determined
+in the manner before mentioned.
+
+If (64) be linear with respect to the differential coefficients of ε of
+the second order, we may from (61) and (65) get an auxiliary system,
+that does not involve these differentia] coefficients, because {2 Ο, ζΙ l and
+ζο1 2 are then independent of them. Thus if (454) be ¹ ³ ’
+
+Rr÷Ss÷Tt—V=O ...... (68),
+where ν = 22¹0, s = 21¹1, t = :0,2, (67) becomes
+Rm2— Sm -{- T = O ...... (69),
+whence m -f— Ξ Ξ, mlv„ = {-
+
+Now putting sm, = p, 20¹1 = q, we have
+

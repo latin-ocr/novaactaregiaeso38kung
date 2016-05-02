@@ -1,0 +1,43 @@
+DIFFERENTIAL EQUATIONS OF THE η”ι ORDER. ‚27
+
+leeorem II.
+
+[f α’, 26²), . . . ‚ um> be solutions of (42), their sum will also be a
+solution of the same equation.
+
+⁷⁴:71 r=n
+For putting ε = S um, whence cmii„ = S ²1sssL2·‚2·‚ we
+rzl r=1
+
+get by substitution in (42)
+
+sss υ,- Μ = 0,
+
+an equation, that is identically satisfied, as every sum within the brac-
+kets is Ο.
+
+In the following we suppose the co'efficients U to be constants and,
+for the sake of distinctncss, we put C in their plaees3 thus (12) becomes
+
+S Q— :H-f', = V.
+We will, however, previously treat the simpler equation
+S ct¹ :ql-f, = o ........ (43).
+
+The auxiliary equation (20) becomes here
+
+S (-1)2⁴ Q. mn* ·= o ...... (44)
+120
+
+and has constant roots, which we represent by m„ 7722, ..., m„.
+
+Theorem III.
+If mr be any root of (44), z Ξ φ (y—m‚.x) is a solution qfffiffl).
+
+For let ε = φ (y — wrm) , whence we have „wi-1<
+= (— 1)⁷¹-¹‘ any-¹⁴ φ(”) (y — mroe) , which, when multiplied by (— 1)-'²
+= (— 1)²²*-⁷²‚ reduces the left member of (43) tc
+
+<000 <y — m> S <— ιγ· α
+
+that is to O, as m⁷⁸ is a root os (44), and therefore the sum vanishes.
+

@@ -1,0 +1,60 @@
+DIFFERENTIAL EQUArmNS or THE nst' ORDER. ,7
+
+equations involving ε and its partial differentia] eoeffieients up to the n'* or-
+der. n being the order of the differentia] equation, arising from the elimi-
+nation of the arbim-ary constants, we must determine it from the conditions
+
+ 
+
+(22÷1)2(2}3[33) Ξ r ÷ 1 ‚ ,. Ξ Φρὺξ) .
+Thus when 1 Ξ r ξ 2 η = 1 ,
+
+,7 ῧξνζῖ), 22=2,
+
+„ (ἷξνξθ, n=3.
+
+,7 10 Ξ r Ξ 14, 72 = 4 eto.
+
+For the sake of the utmost generality it seems best to eall (li) a complete
+
+primitive, only when a· = (nsslgnssl) —-
+
+-Ι
+
+ 
+
+ 
+
+1 , n being the order of the
+
+differential equation, this also agrees with Lagiange’s view, for he supposes
+¹ r = 2 when n = 1.
+
+Finally, as our resonrees for the integration of given partial diffe-
+rential equations by obtaining their gyeneral solutions are restricted, we so-
+metimes get solutions involving both arbitrary functions and arbitrary con-
+stants; such solutions we will term milred. Supposing
+
+ε =f(a³‚ y, a, ‚ (12, ap, rs„ ([2, qq)
+a mixed primitive, then in general the order η of the resulting differentia]
+equation will be determined from the eonditions
+(²²'⁴:‘1)2(H÷2) Ξ p ss,- (n†l)ae]—l— 1 , p -i-W'] Ξ ῘῙΨῘῙ) .
+
+We consider in the same way the mixed solution as particular, when
+
+the condition
+
+ 
+
+ 
+
+(⁹21÷*1>(n†22
+
+2 >p÷ (ΜΒΝ-1
+
+ 
+
+ 
+
+is satisfied.
+

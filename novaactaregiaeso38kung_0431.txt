@@ -1,0 +1,41 @@
+DIFFERENTIAL EQUATIONS oF THE ⁷2²⁶ ORDER. 33
+
+Em. 2. :2l —- 2:1¹2 -ἱ- εΗ = a-l—boeff-cy.
+
+Integrating this with respect to y, it gives
+2
+
+²2 ο ““· 231Λ ‘4‘ ²02 Ξ (Ψ -†- bst'y *t* ’σέ- -ἕ- φ”(ἃ”)’
+
+φ” representing an arbitrary function. Differentiating with respect to m,
+we get
+:3¹0 — ⁵2:24 ἦ· ἷιλ = by ’Ἢ φωρῶν
+
+the general solution of which is
+
+2= w> ψ ἷίἷέ ÷ oo> ψ ww> ÷ amoto.
+
+Now determining φιζῃ) so, that the given equation may be satis-
+fied, its general solution becomes
+
+ε = w> ψ (ww) ἔξ ÷ (Ξῖ) με) ἕξ ÷ ww) ψ mmm.
+
+B) TO INTEGRATE PARTIAL DIFFERENTIAL EQUATIONS,
+WHICH ΑΗΕ NOT LINEAR WITH RESPEOT TO THE DIFFE-
+RENTIAL COEFFICIENTS OF THE HIGHEST ORDER.
+
+9 ὅ.
+
+In ξ. 6 we have hriefly exemplified, how the foregoing theory ot
+linear equations may be used also to integrate those, that are not linear.
+We shall now deduce the general formulae, that are to be used for the in-
+tegration of non-linear partia] differential equations of the 22²⁶ order with
+oue dependent and two independent variables, and also shew, how these
+formulae in special cases coincide with known auxiliary systems.
+
+The result of the differentiation with respect to ar and 3( of the
+equaffion
+
+F(oe‚y‚2‚ ²1.07³0.1v···2¹7n,022n-1.17···a²0.n)= Ο · · (54)
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 5
+

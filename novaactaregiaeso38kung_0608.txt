@@ -1,0 +1,54 @@
+10 GoRAN 1311111611,
+
+(16 la fonction (10111166 f(z) comme derivee. Puisque, d'apres 16 11⁰ 11,1a
+differenoe F(Z)—-F(20> 161116661116 la cordo qui joint les 6111161111166 (111
+601110111- de l'integrale, la fonction primitive F(z) doit elle-meme 161116-
+,6611161 16 601110111· (16 l⁷integrale.
+
+Remarque 2. Les regles oonnues 110111· trouver les primitivos des
+fonctions ’'melles” (101111666 comme (16111666, peuvent s'etendre, d'apres les me-
+thodes ordinaires⁷ aux fonctions complexes3 c'est pourquoi, dans 66 (1111 va
+suivre, nous ferons usage (16 666 168166, comme etant (1611101111666 110111 666
+fonctions.
+
+Remarque 3. Si la primitive F(z) est une fonction uniforme
+601111116, 1’61101166 (14) (111 (1116 la 111116111- (16 l'integrale definio ne depend que
+des limites Z 61 20, 61, par 611116, 661 111(1611611(1111116 (111 chemin 16 long du-
+quel l'integration 661 6116611166 (16 ‘20 ἐι Z 3 (1’01“1 11 s’ensuit, entre autres 6110-
+666, (1116 l'integrale, prise 16 long d'un 601110111- ferme, 161116661116 elle-meme
+1111 601110111 ferme. Ainsi, par exemplo, nous 601161110116 (1116 l'integrale
+
+s} dra [n = un nombre entier queloonque autre (1116 - 1], 111166 16 long·
+
+d'un contour ferme, 161116661116 elle-meme un 601110111· ferme, puisque la pri-
+
+.z⁷²†¹ est uniforme 61 par suite -—1- 7·”÷1-— ”4¹ = O
+
+π-1-1’” η-ἦῗᾞῖθ
+
+ 
+
+mitive η 4 1
+pour Z = κο.
+
+15. La primitive F (z) d'une derivee syneotique (10111166 f(:) :F'(2)
+etant continue [η’ 6, rem] 61 111116 [(13), (14)]‚ 61, (16 111116, representant
+des contours egaux 61 parallelos [nO 10], 110116 aurons 166 formules 6011111166
+suivantes, qui subsistent aussi pour 166 integrales definies des fonctions
+complexos.
+
+1Ο En differentiam par rapport ἐι la limite supe'rz'eure de l’integrale,
+on aura [(14)]‚ l'existence de la fonction primitive etant geometriquement
+constatee [nO 10]:
+24AZ
+
+ΔΑ 961013 = s2f<2>c22 = F<Z÷AZ>—-F<Z> ,
+
+61 par suite, ἐι la limite,
+
+ciffi> dz
+
+dg ΞμΖ) ........ (15).
+
+ 
+

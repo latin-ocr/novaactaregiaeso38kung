@@ -1,0 +1,45 @@
+64 GeRAn DILLNER,
+
+cedes, nous indiqueront le suivant comme tres-remarquable. En multipliant
+
+l'identite (101) par dss qui est irreproductif relativement ἐι γ’, et en ob-
+
+servant que (RQ) est un polynOme entier et rationel, on demontre, de la
+
+meme maniere qu'au 11⁰ 71, que
+πᾷ] V(⁶{2⁷)2 - Ο 7
+
+fi ssff .-
+
+⁷1
+2,.. {Aah}
+
+equation qui ne suppose aucunes autres conditions que celles de (91) et
+(96), et qui, ἐι cause de cela, doit etrc satisfaite par les equations (107) ou
+(108) comme fonctions primitives. — Nous aberderons, une autre fois, cette
+generalisation du theoreffle d'Abel de points de vue nouveaux et plus
+generaux.
+
+Nous allons maintenant traiter quelques fonctions d’un type plus
+simple, en les deduisant d'equations differentiellcs qui ne contiendront aucun
+parametre constant.
+
+XI. LA FONOTION EXPONENTIELLE ET SON INVERSE.
+
+65. Pe'rz'odz‘cite'. Nous prendrons pour point de de'part l'equation
+differentielle
+
+dvft={5.........(l2l)
+
+et son integrale generale
+
+; (Ξ)
+πείιξευο-ὶ-κχᾲξ-Ήο-ξ-κ.2πί . . . (122),
+
+οὺ 110 est l'integrale principale, et 27r2' la pdrz'ode, provenant de l'inte-
+graie circulaire prise autour du point O [(41>]‚ et 01'1 κ represente un entier
+quelconque ou zero. On aura par consequent, d'apres la formule (71), la
+fonction simplement pe'rz'odique
+
+,ΖεμωεψοιΗ-καπῑ) . . . . . (123),
+

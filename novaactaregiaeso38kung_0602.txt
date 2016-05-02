@@ -1,0 +1,51 @@
+4 GURAN DILLNER‚
+
+11. DEmvEE ET PRIMITIVE D‘UNE FONOTION OOMPLEXE.
+
+6. Soit f(z‚) 11116 fonction complexe et (1661111065 aveo ε = ΟΡ
+[fig. 1] un 601110111 PP' pour tous les points
+Fz'y- 1. duquel f(:) est sy11eotique3 alors la fonction
+
+-ὴ
+
+f(:) = 0142 doit (1661116 1111 601110111 correspon-
+dant QQ‘. En posant OP' = z ψ h et par
+'⁰ 511116 OIQ‘ =f(z—†-h)‚ la (16111166 f'(z) 611
+
+1111 point P 651 (16111116 comme lim PF! pour
+lim PP' = O 011, 611 faisant QQ' = Af(:) 61
+PP' = h = Δὲε
+
+lim 3235)- = limefflZJQ = άζῑξέ) = με) . . . (1),
+
+6’651-ἐι-(1116, 165 (1111616111161165 cl S 61 ds de'signant 165 1110(111165 (165 6161116615
+
+(16 6011101115 611 (165 points correspondants Q 61 Ρ, 61 165 (1116611165 Σ 61 σ-
+161115 arguments:
+
+ 
+
+ 
+
+fv> = 275? = {3335 = &DJ-0 ····· (2),
+
+d'oil il 51111 que Za darive& d'mze fonction compleoee est (yde, quantave modula,
+au quotient des ''elements d’arcs’' de la fonction 61 de la variable inde‘pendante
+ὰ cles points correspondants, et, quant ὰ Z'aryument, ὰ la dzffe'rence des aryu-
+ments de ces e'le'ments.
+
+Remarque 1. En &signant par T et 1 165 longueurs des tangents
+QM 61 PL 61 faisant celles-la proportionelles aux 61611161115 d'arcs ou
+th = dSzd33 011 1116 (16 la formule (2):
+
+ΐωεξέεῗ
+
+(10116, 165 diffe'rentz'elles des quantiffis complexes doivent 6116 6οη5ἰᾶ61665
+comme (mucidam, tant 611 grandeur qu'en (1116611011, aveo (165 1101110115 arbi-
+traires (165 tangents qui 50111 proportionelles aux 61611161115 d’arcs. Nous
+pouvons, du reste, 601151(16161, 51 110115 voulons, 665 1101110115 (165 tangents
+comme '’infiuiment petites”‚ dest-adire, comme co'l'noidant aveo 165 61611161115
+(165 6011101115.
+
+7
+

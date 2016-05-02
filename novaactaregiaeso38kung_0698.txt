@@ -1,0 +1,58 @@
+100 GORAN DILLNER,
+
+les qualitites 51, 22, 23, 34 pouvant etre combinees trois a trois de toutes
+les manieres possibles dans ees deux equations.
+En eliminant αθ entre les deux premieres equations (111 systeme (266),
+
+et ellassant 16 factem· 23—23 du resultat, on aura
+
+1 , -τε,1ἐ1(1“ν;)ἒ1ε1τκ1-εῗήςΙ--τῑῆψεὲ(Ι-ῆῖῇεωρῦὃ,
+
+α4 Ι-Ξξε
+
+ 
+
+2
+Or, d'apres la formule (103), on aura
+
+F(O) = 1 = —(oe1.1⁴1,3223.34)³ . . . . . (269),
+
+(Γοίι l'on tire, en comparant la seule racina possible 001‘3'1222'224 = —1
+
+avec la formule pi'eeedente, et en s'appuyant sur la forinule (255) et (256),
+
+11⁷3(nl)11⁷'²'(u.3)†11'(1(1)11⁷(u2)W'(u2)11⁷'(zc.2)-t-W²(n2)ll'''·'(ul) —
+1 - 11Ῐ3(111) ll'²''(212,)n ψῃ *⁷⁷ Ἥ -·(2‹0),
+
+ 
+
+— ⁹1ss (1141 ²‘2 4213) W(v3) z
+
+egalite qui exprime par consequent 16 theorema &addition cle Za fonction
+⁵1ss01). De eette formule on deduira immediatement, a l'aide (16 la formule
+(258), le tlw'orc‘mw d’aecddz'tz'on cle lu fmmtz'onr 11’(1ι), et, a l'aide de la fol·-
+mule (2131), celui de [ιι fonction 11’4(1().
+
+En permutant, dans la formule (270), 213 et 114, et, ensuite, v3 et ηρ,
+011 aura deux ἴοι-11111165 nouvelles, exprimant 16 (1160161116 d'addition de la
+fonction 511101). Ues deux foi-mules, combinees avec la formule (270),
+equivaudront aux deux equations distinetes (267).
+
+Εεηιανιμιε I. Puisque le systeme (266) contient deux parametres
+arbitraires oco et 041, deux (les trois quantites 114, 114 et ²13 sont iles vem-iables
+inz‘le'pendantes [11¹¹ 72, rem. 1] Dono, une des &galites qui expriment 16
+(1160161116 ‹l'addition (16 la fonction Wssor) etant satisfaite, les autres le
+dcvi-ont etre z'deuc‘z'qzcement.
+
+Renum-que L). Si l'on fait, dans la forlnule (103), ,Ξ = 1, on
+trouvera, en s'appuyant sur 16 systeme (266) et a l'aide de la formule (269),
+une seule de ἴοι-11111166 bien interessantes, eoneernant les theol-enies (l'addition
+des fonctions 11⁷(n), Slssffl) et W,(v), [cfr n⁴' 1⁴35}
+
+1233. De‘veloppement en serie. Puisque, ‹l’apres 16 n* 121, W,
+W(—w) Ξ 00. le rayon du 661616 (16 convergenee doit 6116 < w. Ᾱ 1’111-
+terieur de 66 661616, la fonction 11'(2‹) rcmplira, d’apres 16 11“’ 115, toutes
+les conditione (16 syneetieite. Cette fonction etant, de plus, reproduetive par
+rapport aux trois rai-ines cubiques (16 1, 011 aura, suivant la foi-mule (88)
+{a Ξ 34], 16 developpement
+

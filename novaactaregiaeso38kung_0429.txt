@@ -1,0 +1,54 @@
+DIFFERENTIAL EQUATIONS or THE Μ’ ORDER. 31
+
+and this being integrated r times with respect to y gives
+
+S an-ossm--r = J Efflssfflly'ss S yffi*1 ψ, (w) ,
+
+where it is to be observed, *hats Q(y)dy is itself an arbitrary function
+
+as well as φ,(9) and, therefore, may simply be changed into x‹(y)·
+
+The last equation may evidently be written
+
+ιΖΙι-ρ-ι·
+w
+S Ci÷r3n*Q—v2i,z = I2(¹279 2()7
+1:¹1
+
+the accordance in form with (48) is evident.
+
+We 'might also have transformed (53) by putting z-w, z ε’,
+
+WhffllCe ῧηῐικῑ Ξ ἷζι-ρ-ιχιῑν 7
+this equation would then have assumed the form
+
+cz> 25-(,-„2.,. = Fen y)
+
+θ’θ’
+
+0241· ῑνὲἶρᾲιν-ιπι· Ξ FC& y)-
+
+¹}OE Η [ΚΛΗ
+
+01·
+
+Now if the general solution of the last equation be found, and we
+suppose it be ε’ = QQQRZJ), we have only to seek the general solution
+from the eqnation
+
+ΖΨ, = φ(111,3])
+
+which is immediately integrable.
+
+Corollary V. If V Ξ Fon-v) be a rational integral polynome‚ we
+may, by its differentiation with respect to 0116 01· both of the independent
+variables, form a new linear differential equation with constant coe‘fficients
+and with a right member either zero or of one of the forms considered in
+foi-egoing corollaries. After the integration of this new equation its 30111-
+tion must be so restricted, that it satisfies the given cquation. Of the new
+equation we must, of course, use the yeneral solution, in order to be sure,
+that the general solution of it may contain the general solution of the given
+equation as a special case.
+
+The following examples will fully illustrate this method.
+

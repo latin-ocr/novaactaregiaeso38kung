@@ -1,0 +1,50 @@
+40 GcRAN DILLNER‚
+
+VIII. FONCTIONS PERIODIQUES.
+
+46. Apres avoir monne, (lans ce qui precede, le moyen de cal-
+culer les integrales circulaires et lineaiics, et d’evaluer ainsi les integrales
+prises 18 long d’un contour ferme qui renferme dans son interieur des points
+antiques, nous allons maintenant ahordcr la theorie importante des fonctions
+pe'rz'odz'ques, dont nous avons signale les principes au 11·’ 16, 2”’. Ainsi‚ en
+integrant une fonction f(:) entre les limites .ῖο et ,;·, 18 chemin le long
+duquel l’integrale est prise, n’etant donne que par scs extremites, pourra
+
+cire quelconque comme la droite ‚302 [fig.
+Fiy. 10. 10], l’un des contours abstrahe, 301423050..
+20leon 20A120A2502 etc.‚ ces coutours
+
+’ξφ etant composes [les contours qui au 110 21
+‘²⁹- ⁴ ὴ JZ sont designes par Al, A²7 ..., ΑΡ, A1÷A2,
+Ἔν ἐκ Θ A et (lu chemin ³³³0?- Le resultat de l’integra-
+
+‘² a r
+
+Vi
+
+sb W* ιν, ² tion doit (10118 etse different suivant des
+β '‘2‘' chemins differents que l'on a parcourus en
+Apa& integrant de 22²0 ἐι ,3, si l'on suppose que les
+
+contours fermes A„ A„ Ap, ΑΙ-ὶ-ΛΙ2
+
+etc. qui sont j0ints {t la droite soz, ren-
+ferment un ou plusieurs points critiques, (le sorte que chaque contour
+simple comme Al, 112, ...‚ Ast ne renfcrme qu’un seul de ces points.
+La limite inferieure .ῖο etant fixe, Ξ1 chaque 111118111- de la limite superieure
+z repondront (lonc 811 general plusieurs valeurs de l’integrale3 et par con-
+sequent, la limite superieure, etant consideree comme fonction de l'inte-
+grale‚ devra recevoir la me'me valeui· pour une quelconque des valeurs
+distinctes de l'integrale qui proviennent des chemins differents qui condui-
+sent de zo ἐι z. Alors, 811 representant par u la valeur ρόηόναίε (18 l'inte-
+
+grale sf(3)cl3 prise le long d'un quelconque des chemins allant (18 30
+
+ἐι 2, et 811 1811188811131111, (18 plus, par ²10 la 11181118 integrale prise 18 long
+d’un chemin determine, comme la (lroitc 5:02, et par cela 11181118 11011111188 la
+valeui· principale (18 l'integrale generale, 011 aura d'apres la ἴοι-1111118 (19),
+savoir, si la fonction. f.(3) cst oecodrome le long] des contorti-3 ,γὲν-11183 ‹chz' sont
+ajoute's ὰ Za droit& 30.
+
+πεᾸῐᾳΜεΞυ, :m . . . . . . (68),
+

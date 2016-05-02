@@ -1,0 +1,50 @@
+28 M. sz, ΟΝ THE INTEGRATION OF PARTIAL
+Corollary. Applying theorem II to the equation (43), we see, that
+
+,Ἦ
+: Ξ S φ,. (gs—mroe) also is a solution of it3 and this solution is yeneral,
+
+—1
+
+if the equ. (44) have no equal roots and all the arbitrary functions φ be
+independent of each other. That this is the very same general solution,
+that would be obtained by performing the integrations according to the fore-
+going general theory, is easily shewn. For here (21) and (23) are imme-
+diately integrabie, as all the [uls are eonstants and give n first integrals that
+will be obtained from the equation:
+
+iza-l
+S Cs1f⁴i⁷⁰³n—1-i,i = “ir (y ·- mffl)
+[ΞΟ
+
+by putting suocessively r = 1, 2, .. ., η. Hence we get the differential
+coefficients of z of the (n— ])⁵‘ order as sums of the funetions ψ multi-
+plied by certain constants. Substituting these expressions in (15) and inte-
+grating, we get suceessively the differential coeffieients of ε of the (n — 2)⁷²‘¹ ‚
+(ns—3)''¹¹‚ . . ., ΞΜ and first order all as linear functions of such arbitrary
+functions3 and, finally, substituting in d: = ³1„ dm ÷ εΗ dy and inte-
+grating, s will also be expressed as a sum of oz arbim-ary distinet and in-
+dependent functions. Q. E. D.
+
+Theorem IV.
+
+If a root m be repeated λ times in (472), then z: = ψ (gs—mar),
+
+c = &4101 — mn) ‚ v: Ξ oezmliqfiu —— mm) , . . . . . , ε = [Ἑλ-1 “im-1 (31 - m α’)
+
+are all solutions.
+
+For writing the equation (44) briefly ιν’(υι) z Ο, we get, by sub-
+stituting ε = «My—ma) in the left member of (43), the identity
+
+Ἴ
+{a i doeffl‘ffdff Γ
+Differentiating partially with respect to m, ehanging the sign of
+
+every term and putting a new arbitrary function «LK instead of ψ, we get
+the new identity
+
+¹ Ci Nl [³⁷4¹ (ffssfflnssf) = (-1)” [ωψζῡρχ-νηιϊ)]“(ῃι)-ψῖ”“1 (gs—72m’)]‘'¹(m)] (Ao).
+
+ 
+

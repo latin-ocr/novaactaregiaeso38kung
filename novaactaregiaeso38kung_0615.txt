@@ -1,0 +1,50 @@
+TRAml: DE CALCUL GF'JOMETRIQUE SUPERIEUR. 1'7
+
+Remarque. Pnisqne la deviation POPR„ ne dependant (1116 (16
+la forme arbim-aire (111 contour anxiliaire φρ), peut 6116 quelconque,
+pourvu qu'elle se rapproohe indefiniment de la (161161101111111116ᾶί61161116111
+precedente, il s’ensuit (1116 16 601110111- (16 z peut subir des changements les
+
+plus sing-illiers, ponrvu (1116 la fonction f(z) soit syneotique 61110116166
+points (111 contour variable. On aura 11116 image 1166-616116 (16 666 change—
+
+ments pour une deviation continue, si l’on s'imagine qu'un fil, passant par
+deux trous fixes 20 et Z, change de forme (16 tontes les manieres possimos,
+en glissant par tous 666 points dans 16 plan.
+
+18. En faisant passer par 166 limites (l⁷inte'g1·ation ,το et Z 1111 6011-
+tour ferme zoPZArso, que nous appellemus pour abreger P, 011 aura,
+d'apres 16 ’1116016616 precedent et ἐι l'aide (16 la formnle (12),
+
+:01’22 :Miz ZAs„
+Fc'y. 7· sf(.3))‹l.: Ξ sf(.;)dz = —ss() (ΖΞ.
+f Z Dono l'integrale prise 16 long du oontour P
+AO* sera nulle,
+72⁰ s ¹sil('s.)cl: = O . . . . (⁴29),
+
+d’osl l'on aura cet 61101166 important:
+
+L'z'nte'yrale d'nne fonction synectz'que7 prise le long] (Fun contour
+ferme, amledans duquel la fonction n’a pas des points critique& sera nulle ou,
+quine-315 Za me'me chose, sbrnzera elle-me‘me un contonrferme'.
+
+Remarque. En posant 3 = {4— ῖη et f(¹'⁴') = X÷25Y [ns' 8],
+la formnle (29) s⁷ecrira
+
+s‘jffffidz Ξ sleZ— deffis'ppx’dn ÷ Ῡᾱξ)
+
+demonstration (10111166 par Mnlmsten [Kongl. Vet.—Akademiens Handlingssr, 1866] est
+exempto de 666 1116011ν611161116 mais elle restreint la deviation au dedans d'nn rectangle
+[parallelo anx axes] dont 16 diagonale a pour extre'mitfzs les limites d'integration‚ et
+suppose, (16 111116, (1116 166 projections (166 6161116616 dela deviation soient eonstamment
+ou positives 011 negatives. —— La demonstration de Riemann est generale et peut se
+formuler toute rigoureuse [Voyez Calc. Integral par I. Bertrand, pag. 297, et Τ1160-
+116 elementaire des quantites complexos, pai· J. Hoiiel‚ pag. 821. La demonstration
+que nous avons (10111166 ici est, 1161116116, la plus simple possible que l'on puisse
+etablir pour un theorerne aussi general (1116 661111 (16 Canehy.
+
+²³⁸) Lorsqu'on integre 16 long d'un contour (1011116, 011 ecrit 16 110111 (111 eontour
+ὲ, la place (16 la limite 6111161161116 d’integration.
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 3
+

@@ -1,0 +1,55 @@
+30 M. FALK, ΟΝ THE INTEGRATION or PARTIAL
+
+ 
+
+Corollary II. If V= Fffly), we may put v z ‘vu—r u, if 02sz
+
+[oz—r
+
+ 
+
+be the last term, that does not vanish in the left member of (48) and
+u a filnotion of y only. Substituting in (48)7 we easily obtain
+
+(ᾏῑωμ, == 13(y),
+whence
+
+1 must
+v = † ff
+
+09 Pv-r -)(33(y)dy ...... (50).
+
+Corolloery III. If V: Far) -1- Fl(y), the general solution of (48)
+will be z = u -4- v -ἱ- ζ ‚ u and v being any particular solutions of the
+
+equations
+
+ 
+
+WQQOEAE
+
+Οι- υΠ m· z FlQs) ....... (52)
+
+and ζ the general solution o—t' (43). For putting z = u 4- v -1- ζ, we get
+by means of (51) and (52)
+
+S 02- ξω = ο,
+
+which proves our assertion. According to the corollaries I and II we may,
+therefore, use the u and v of (49) and (50).
+
+C'orollary IV. If some ternis be missing at the. beginning and the
+end of the left member of (48), this equation is immediately integrable
+several times and will thus be reduced to a new equation of the form (48)
+but of a lower order.
+
+If, for instance, the equation (48) be
+
+S( Q, :ww = F(a÷‚31) ...... (53) ‚-
+
+where ν· and ρ arc integers < η and n —-- ρ > r. Integrating (53) ρ
+times with respect to ιι), we get without difficulty
+
+1'211-11 ε’ s=<2 -1
+ὃᾶῃωεχῇωῶῧψὸΰμὫωῐΕωωωΉ
+

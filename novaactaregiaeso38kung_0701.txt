@@ -1,0 +1,39 @@
+TRArrss DE CALCUL GEOMJL'TRIQUE SUPERIEUR. 103
+
+Pom· cela, prenons pour point de dssspart lbquatiffl] differentielle
+
+οὺ nous posons, pour meg-er,
+[ζιφ = (1 —lssSinwf' . . . . . . (217),
+
+lc re1)1·(³,se11tant un paramietre constant, lie' ὰ 1111 autre parametre kl, pal· la
+relation
+
+Ic²—{-A·²1‘ Ξ 1 ........ (278).
+Si l'on introduit dans mquation (2713)
+η = Sin φ ........ (2ῖ9),
+
+011 aura Γὲφηιῐίοη diste'rentielle suivante
+
+clu = V1—27 (Ι-Ιιῑγ ...... (280)
+Ensuite, si l‘on fait, dans la meme e'xquation7
+ζ = Tg φ ........ (281) ,
+
+on trouvera l’‹÷quati0n differentielle
+
+du z ᾖξ’)ζίξέ (982).
+1
+Enfin‚ si l‘on fait dans cette &quation
+,Tgx= 7231*qu ..... . . . (283),
+
+en posant
+0 Ξ 125122} 1
+’ 27⁶3 ἱ, . . . . . (284),
+1⁶2 ί
+⁶² 1³52}ss l
+011 aura l'&quation differentielle abs-simple
+dv = ε(1--(ς Cos 2x)slx ...... (285).
+
+Les qllantite'zs φ et χ, οοηείᾱρνἑοε comme fonctions de u, ainsi que
+les fonctions Sin φ, qu) et ng et celles qui s’en deduisent, sont des
+fonctions qui s’appellent kepleriennes.
+

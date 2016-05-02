@@ -1,0 +1,32 @@
+§ 1.
+Genesis os llae (lg'fferenlial eqzcalion from its primitive.
+We will examine the differential equation arising from
+
+F(<P1‚Q2‚--<p,-‚d'‚y‚: ΞΟ ...... (1),
+where F is a definite functiou and Q, Q. φ,, arbitrary functions re-
+spectively of 211 ‚ πὶ, ..., vr7 whieh also are definite functione of cc, y, 2²3
+
+thus e = e (m), φ2 = φ2 (212) etc-
+
+If equ. (1) be differentiated partially with respect to m and y, we
+obtain two equations containing the partial differential eoe'ffieients of z of the
+first order together with the first derived functione of Q, Q, φτ.
+Differentiating again, we get three equations with the three partial differen-
+tial eoeffieients of ε of the second order and the second derived functione
+of φ1 , ..., Q, and so on. Proeeeding thus⁷ we get a system of equa-
+tions, finishing with those, which eontain the partial differential eoe‘ffieients
+of ε of the 22⁰³ order and the πω derived functione of <pl , <02 .. Q, oz being
+any whole number. These, joined with (1), are 1 -ἱ- 2 -Ι- .. -1- (n†l)=
+§‘'²†l{)(²Q-ffl equations, containing the r arbitrary functione φ and their η
+first derived functions3 in all (η-1-1)ν functione φ, φ’, ..... vm). Thai
+we may be able to get by elimination an equation fully freed fromss those
+
+ 
+
+ 
+
+functione, n must generally satisfy the condition (nd-123& Ξ (22÷1)r—{-1,
+
+whence η Ξ 2ι· —- 1 .
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΠΙ. l
+

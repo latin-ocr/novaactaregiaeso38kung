@@ -1,0 +1,51 @@
+DIFFERENTIAL EQUATIONS OF THE πω ORDER.
+
+(2¹
+
+Differentiating (c) with respect to w, we get
+
+ar os at ‚ aa ‚ a& ay -
+oeffi÷ssffl÷yffi÷offlsssffi÷tffi-
+
+= (ἒξ) *² (ἐξ.) F, ÷ ²⁷ Cf} φ’ ff ÷ ἶῗζὲ ψ’τ)
+
+(ᾗ) and (ἐξ) being the differential coeffioients of ζ and η with respect to
+x, as far as they involve ιυ both explicitely and implicitely.
+
+ff0=2ffi·ssE†JM
+
+dv dv ᾗ, and φ’ and ψ’ be eliminated by
+
+means of (b), this equation will take the form
+
+F2(x‚y‚p‚q‚r‚s‚t‚0‚‹f‚‹ssr)=0 - - · - «03
+
+and if between (c), (d) and the given primitive rs and ψ be eliminated,
+we shall get
+F3 (ρ, απ, y, z‚p‚ q, r, s, 020
+or, solving with respect to ρ and restoring its value
+“BL-l- β {32} -i- >tc-bl} =f(11²‚y‚2‚p‚q,r‚s‚t) . . (e).
+
+dm
+
+Thus we have the following remarkable result, viz: that the primitive
+Ζ = F(‹[=‚1l')‚ φ and ψ being defined as above, gives always rise to a dif-
+ferentia] equation, which is linear with respect to its highest par-tial diffe-
+rential coeffioients of z, whether this diff. equ. be of the second or third
+order. When the differential equation is of the second order, it will, of
+course, be the equ, (a)7 cleared of φ and ψ.
+
+Another remarkable circumstance, when the diff. equ. is of the third
+order, is, that we may get more thau one diff. equ. from the same primi-
+tive Ζ = F(<p‚ ψ). This is easy to see, because we might have differentia-
+ted (c) with respect to y instead of to Υ, whence we should have obtai-
+ned in the place of (e) a diff. equ. of the form
+
+“cl—ii *r βέῑ-ῗ] 't γὲᾗ =f1 (oe‚3s‚ 22222 ‘I’ γ’ ³2 ΐ)·
+Em. 6. 2=F(‹r1‚‹s2‚-··‚<ta)‚
+
+where, as in ex. 3, every one of the functions ‹J- contains only >one of
+the definite functions u of Υ aud y. We will here examine two cases,
+viZ. 1³²⁹ when the differential equation is of the (⁴27·—1)·‘l and ΞΜ] when it
+is of the νώ order.
+

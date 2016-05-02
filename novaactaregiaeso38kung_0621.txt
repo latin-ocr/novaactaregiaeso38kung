@@ -1,0 +1,57 @@
+TRAITE DE CALCUL GeOME'erUE SUPEf'uEUR. 23
+
+Remarque. En supposant que a soit un point d'embranchement 611
+meme temps qu’un infini⁷ 13 fonction (z—a) F(2) 116 6613 111116 syneetique
+au point ας 111316 13 formule (37) subsistera toutefois, des que la limite A
+(13116 13 formule (35) 6613 1111116. Car, (13116 66 636, 13 fonction (z—a)F(:)
+differ-era d'une quantite infiniment petite de 13 limite zero pour tout point
+de 13 eireonfe'renee de l'aire (a), (1’01“1 l’on 6011611113, d’apres la foimule (36),
+
+ζ
+
+(1116 l'integrale eireulaire sI3'(1)d.3 s’annulera. Ainsi, par exemple, l'in-
+(ri)
+
+tegrale 011-61113116 J ἸΧ1011 (z —— a) dx sera nulle, parceque lim (,z——a)log(2—a)
+
+est nulle pour z = ας (16 meme, 110111· μ < 1, l⁷integrale eireulaire
+
+ 
+
+ἰαὶ)
+dz :—a
+<lq—(ff sera nulle, puisque lim (Ιῖ-ῑγ, 6’311111116 110111 z = a, etc.
+Au contraire, 13 1011111116 (ST) 116 s’appliquera d'aueune 1113111616 a l'integrale
+fa) 1 1
+
+eirculaire s ezdz, parceque lim 6²³3, pour ,ε = a, est une quan-
+tite 011 1111116 011 infinie ou indeterminee.
+
+26. En posant
+
+m) Ξ ms>
+
+,ῖ-ι
+
+ 
+
+7
+
+011 110116 6111111060116 ῧ-(ῑ) synectique pour l'aire 60111111166 par 16 contom-
+ferme Ρ, 3 l’interieur duquel est 111366 l⁷i11fi11i simple t de la fonction F (z),
+011 31113 3 1’31(16 (16 13 1011111116 (32), puisque⁷ selon l'hypothese‚ F (ε) est
+oeeodrome 16 long de 13 eireouference [t] [11⁰ 21, rem. 1],
+
+p “D
+sF(z)cZz :sF(z)dz‚
+d’01‘1 il resulte, 13 11111 (ε’-ί) F (z) 011 ῧ-(ε) etant syneetique au point t,
+
+Ρ
+1., welz . . . . . . (38).
+
+ῧᾳ) Ξ ῇῑ ” {LT
+On aura (10116 eet enonee' important:
+Toute fonction δ’(ΐ) pourra s’fflyn’imer par le produit 71ῖί- >< Γίηἰέ-
+
+yrale definio de la fonction 150} prise le [0219 <Fun cotztourfmme‘ P com-
+

@@ -1,0 +1,42 @@
+1:20 GGRAN DILLNER‚
+en supposant que la valeus φ = O correspoude ἐι la valeus u = Ο
+ou que
+
+ο = am 0 ........ (356).
+
+Maintenant, les fonctions φ, Βίηφ, Tg φ, Cos& et Δφ s‘appel-
+lent fonctions elliptz'ques ou plus particulicffrement, fonctions elliptiques de prd—
+mzere CSPCCC.
+
+Si l'on fait dans la formula (351)
+
+η = Sin φ ......... (357)
+ζ = z Pg· φ ........ (358)
+k σ = Δφ ......... (359)
+οη en dssduira les lssquations diflfzrentielles suivantes
+dn
+du = νῑῐνῇῖ . . . . . (360)
+. d<
+clzu = 'W ...... (361),
+(lu = iel-⁰. . (362).
+
+ 
+
+ 
+
+’ῙῩῨῘξέἸῩῑ-Α-ξῖῖ ’ ”
+
+Remarque. Si l'on veut indiquer par une notation spaeiale que le
+paraluc'ztre eontenu dans la fonction am v est lc, 011 <Sotira am (u, lc)
+ou, plus simplement, amma).
+
+147. L'inte‘xgrale (354), prise entre les limites Ο et {m s'exprimera,
+d'aprt'aes un calcul t'zle'nnentaire7 par la seh-ie convergente suivaute,
+
+I< Ξ ιζέἶζὲ = {ffssl-l-(ffff Δ]- G i)k1÷(}{{)kb ÷ ...ξ ...(363).
+
+Si l‘on remplace dans la formule (354) le pa¹·am‹'3t1·e lc par kl, on
+posera
+
+A] = s ἑίφφ = {ww4-(232211‘1'÷({{{)²k3ss({{ssfkssffm( ...(364).
+

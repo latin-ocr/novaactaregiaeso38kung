@@ -1,0 +1,52 @@
+TRArrJS: DE CALCUL GEOMETRIQUE SUPERIEUR. -11
+
+2⁰ De meme on trouvera, en differentiam: par rapport ἐι la limite in-
+fh'rz'eure de l'integrale,
+
+dsffivdz
+633⁰ - = —f(.÷0) ....... (16).
+
+3⁰ En differentiam, de plus, par rapport ἐι 11116 quantitas t, qui est
+
+ffzgefie'nffm‘e de z, on aura d'apres la methode (16111166 pour des fonctions
+r e es ι
+
+ 
+
+ 
+
+ 
+
+dsjss’ ‘W - s fise, τ 1ίῖὟ
+
+dc “
+
+16. Si l'on fait deerire ἐι z un eontour ferme P [20 Σ Ζ ], la fone-
+tion f(z)‚ etant synectique, deerira aussi un eontour ferme3 mais le eon-
+tour de l'intz'zgrale, au contraire, doit done etre ou ferme' ou movere, d’0t1
+proviendra cette elassifioation importante des integrales definies:
+
+1Ο Le contom· de Z'inteyrale e'tant ferme'.
+
+Dans 66 eas, chaque fois que z deerit de nouvean son oontour ferme
+P, 16 contour de l'integrale eorrespondant⁷ 611 vertu de la formule (9), 66111-
+eidera en tout point avec 16 eontour premierement deerit, d'osl l'on aura,
+quelque nombre de fois que z ait deerit son eontour P,
+
+[jem = 0.
+
+On en pourra (done eonelure que, en fixant z en nn point queleon-
+que du contour P comme limite superieure, et en designant par F (z) la
+primitive de la fonction f(z) [(14)]‚ l'integrale definie
+
+²⁶=ss⁴<2>d³=F<›2‘)—F(20) . . . . . (18)
+
+sera 11116 fonction u'nzfornw et par consequent synectique [n 15] de sa limite
+superieure, cette limite etant prise 611 un point queleonqne du eontour P.
+On aura done 661 enonee:
+
+Si l'z'nteyrale de'finie d'wze fonction sgmectique‚ prise le lony (Z'un con-
+tour ferme, est malle, cette inte‘yrale, prise depuis une limite infe'rz'ezcre donne‘e
+jusqu’c'b usne limite superstare variable sur Ze contour, sera une fonction synec-
+tz'que de cette limite pour un point quelconque du contom.
+

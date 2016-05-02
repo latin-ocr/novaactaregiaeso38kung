@@ -1,0 +1,46 @@
+DlFFERENT1AL EQUATIONS OF THE off* ORDER. 15
+
+Giving in either of the equations (27) suceessively two values ί
+and j to the index i and eliminating the m (or m) occul-ring in these
+
+equations , we obtain
+(Γ) (Γ) (Γ) (Γ)
+
+Di A] = DJ ,Q ........ (28),
+including all the relations, which the two integrals F--O and F, 4- O
+must satisfy, if independently of each other ί and j receive all integral
+values from i or Αφ’ = 1 to ε’ orj Ξ n— 1.
+
+Taking the last equ. of system (27) together with what it becomes,
+if s be put for r and j for z', we get by elimination of m the forn] of the
+relations, which must be satisfied by three first integrals F: O, R: O,
+Fs=0 of the equation (12), viz.:
+
+ζῖἷῖ4, ζῖἶι,..ῑ)ἱ’ᾬ>ζ” 2 {Hm ζζῗι.1 D? 4 - · - (29)⁷
+which for 3:1- reproduces (28).
+
+The equations (28) and (29) we, therefore, may regard as complete
+identities, satisfied by any two or three of the first integrals of (12).
+
+9 5.
+Properties (ff n distinct first inleqrals of tlte dgfferem‘ial equalina (12).
+
+Firstly let us have the n cquations
+
+F=0, E=O ...... ΕΗΞΟ . . . . (30),
+involving α’, y, ς and the partial differential coefficients of ε with respect
+to ιυ and y up to the (ιι-1)·”“’ order, the equations (30) being not restricted
+to be first integrals of a given partial differential equati0n3 we proceed to
+investigate the general conditions, that must hold, in order that the values
+of ,χι-Μ, epm, , ³‹·.n-1‚ obtained froin (30) may render the equa-
+tions (15) integrable.
+
+To the notations, used in the equations (26) and (27), we add the
+following
+oF -ἔ a — &E - ξω DF, - .‹›·›
+(cl{)— ³ (dy) — η’ (ἦ) — ³ (dy) — η ⁷
+where the parentheses are used to denote, that we differentiate, for instan-
+ce, with respect to ατ, as far as it is involved in F or F„ both explicitly
+and implicitly through ε and its partial differential coefficients of all occur-
+ring orders eoecept tlze hiyhest. Lastly we also put
+

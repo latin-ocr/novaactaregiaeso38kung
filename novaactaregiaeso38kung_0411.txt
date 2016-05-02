@@ -1,0 +1,51 @@
+DIFFERENTIAL EQUArroNs or THE 20²¹* ORDER. 13
+
+. (lu
+Denoting d—vv
+
+for determining m the equation
+
+by m we get, after the quantities μ have been eliminated,
+
+,ζ (-1)1‘ Lama-1 = 0 ....... (20),
+
+which together with the equation
+
+(ly — mdtu = O ......... (21)
+are equivalent to (17) and (18).
+
+In order to be able to use (19), we must determine the quantities
+μ from (17) and (18), or else, putting Uvas: W„ we have to determine
+W the equations
+
+W,= ΠΗ, IVe-—l— ΙΫΗ m: U (i=1‚ 2, , “n—l) . . . . (22).
+
+(We need not necessarily use the equ. Wffl m: U„ whieh follows
+from (17)). Having calculated the quantities W, the equation (19) may be
+used in the form
+
+ι ’1-1
+S W, ὤση-Η,-
+izo
+
+’ὦ
+e
+
+Now the equations (20), (21), (22) and (23) supply the place of
+(17), (18) and (19); and by integrating the former group of equations, the
+functions (p and ψ will be known.
+
+Suppose m a root ot' the equation (20), we substitute this root in
+(22) and get a system of quantities W. Then (21) and (23) will be two
+ordinary simultaneous differentia] equations, where the eoet'fieients of the dif-
+ferentials are known t'unetions of m, pf, .- and the differentia] eoet'fieients of
+ε up to the (oz—lp order. Integrating these we get a system of values
+of ‹s- and ψ. And 111 this manner there will be as many sueh systems, as
+the equation (20) has distinct roots, supposing, of course, that the integra-
+tions are always possible. If, 011 the contrary, the equation (20) has equal
+roots, the number of these systems wil] be less thau 11. Α8 11011Ἰν an arhi-
+trary relation between a (s and a ψ, constituting together sueh a system,
+is a first integral of (12), there will be found as many first integr-‘ils of
+the given partial differential equation, as the equation (20) has distinct roots,
+all the integrations in (21) and (23) being supposed possible.
+

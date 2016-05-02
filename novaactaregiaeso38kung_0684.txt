@@ -1,0 +1,44 @@
+86 GcRAN DILLNER‚
+
+011 1’011 designe par des 810811815 simples la valeur principale et par (185
+810811815 (10811185 la valeur findi-ale de la fonction u. La valeur principale
+T-¹(:;·), etant repmductive, selon la formule (204), par rapport aux trois
+racines cubiques de 1, sera developpable en une serie convergente pour
+
+a< 1, (l’apres la formule (88) [σ = 3].
+
+109. Puisque⁷ d'apres 185 formules (203) et (214), 185 18811185 (18
+
+requation T'(u) = 1-1- Τ3(1ι) = Ov 50111 -— ῗ-ξ-ξπὶζῒζ pour r = 1,
+2, 3, la fonction T-¹((.z)) repre8entera un nombre 1111111118 (185 branches
+paralleles [11Ο 64], partant de tout point u = —3072-2- }⁷s²}⁷’ les points
+d’embranchement etant Ξ = -ὲ, pour ν = 1, 2, 3.
+
+110. En vertu de la formule (205), 011 aura la fonction Z-¹((z))
+(1818111111188 (18 88118 maniere:
+
+για-ε» ÷ T-¹((-2>) = 0 ······ (2¹8)·
+
+Remarque. Nous pourri0ns‚ d'une maniere toute semblable, appro-
+fondir l⁷etude d'un nombre 1111111118 (185 nouvelles fonctions pefiodiques, pro-
+
+venant des equations differentielles de la forme du = l—Jl-Zfss [σ etant un
+
+entier positif]‚ 811 ayant des moyens 185 plus generaux de preciser leurs
+proprietes fondamentales‚ comme la periodicite [V111]‚ 18 1118018818 d'addi-
+tion [X], 18 developpement en serie [1X‚ Vm, etc. Mais il faut que nous
+laissions (18 cete 101118 recherche ulterieure (18 88118 nature.
+
+XV. LES FONCTIONS V(u) ET mu) ΕΤ LEURS INVERSES.
+
+111. Pe'rz'odz'cz'te'. Prenons pour point de depart l'equation diffe-
+rentielle
+
+(ΖΞ
+
+du = (1423ss ........
+
+(219)
+
+et 5011 integrale generale
+

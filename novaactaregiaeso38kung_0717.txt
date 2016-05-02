@@ -1,0 +1,49 @@
+TRAITE DE CALcm, 013οΜ511110οΕ SUPEROEUR. 1'19
+
+deux systizmes quuations qui, 011 permutant d’une 1113111010 eonvenable
+21, 512, :3 et 24, fourniront quatorze οἕ311ῖὲ5, contenant deux (105 trois
+temps t„ ί, et ta comme variables independantes. Dono. 11110 (10 005
+‹igalites &tant satisfaite, les autres 10 seront identiquement.
+
+Remarque. Le 111001οῐῃο d'addition (10 13 fonction Tgssffnt)
+&tant (1011110 par 105 formales (349) et (350), 011 en deduira immediatement,
+3 l’aide (10 formule (344), celui (10 13 fonction Tg Kfflrcnt). Les (1100-
+101005 d’addition des fonctions SinKffircnt) et []K(}c⁷zt) 50 trouveront
+immediatement du 11” 141.
+
+Nous 3110115 maintenant traiter un nouveau groupe de fonctions qui
+thieoulent d'une e‘zquation difffflwentielle contenant 3115511111 pa1·am<'3t1·e constant.
+
+XVIII. LE& FONGTIONS ELLIPTIQUES.
+
+140. On prendra pour point (10 depart l⁷equati0n diffcerentielle
+
+du = d ........ (351),
+
+01“1 1’οι1 a 11050, pour abffiger,
+
+Δφ = Vl-Jffiswcp ....... (352),
+lc &tant 1111 ραναηιὲιξνε *) constant, lie 3 1111 autre 11313111οῖΓο le„ dit parameztre
+”comple'mentaire²⁷, pal* 13. relation,
+
+ 
+
+ 
+
+[ε’-’-ὶ-Ιιτξ = 1 ........ (353).
+En mettant l’inte'zgrale (10 1001131101] (351) sous la forme
+fs
+u = s ἐξ ........ (354),
+
+la limite 5000110010 (10 1’1111ος1“3(1011, consider& comme fonction (10111110-
+grale, s'appelle ’'amplitude'’. On la dtsigne par
+
+φ = am u ........ (355),
+
+*1 Nous (111·0115 paramiztre plut6t que ''modum‘' puisque 00 dernier mot a une
+
+autre signification dans la (1100110 (105 (1113011105 800111011101105. Par la 11101110 raison,
+
+on &vitem le mot ”argumentu eu nommant la quantit& u inwgrale ou, tout simple-
+ment, variable.
+
