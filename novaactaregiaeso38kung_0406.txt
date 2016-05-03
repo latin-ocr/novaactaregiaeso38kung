@@ -1,0 +1,41 @@
+8 Μ. Flam, ΟΝ THE IN'rEGRATION or PARTIAL
+
+A> PARTIAL DIFFERENTIAL EQUATIONS, WHIOH ΑΗΕ LINEAR
+WITH RESPECT TO THE PARTIAL DIFFERENTIAL
+COE‘FFIOIENTS OF z OF THE HIGHEST (nm) ORDER.
+
+ἕ. 2.
+
+Derivalion (ff {lte parfia! (lffe)·ential equalina from a first in-
+leyral (ff qe‘ven form..
+
+In all the following we use the notation
+
+ὒν -ἱ-τ];
+
+Ἤρ ξἰᾹΙυ ialys ¹
+
+Now let φ and ᾳ denote definite funetions of 2 y, ε, :m 2⁰„ 22⁰, 211, ἦν),
+, ;the first derived function of φ with respect to cc,
+as far as v is involved in s both explieitely and in ε’ and in its diffelen-
+tial eoe'ffieients up to the (vt—2) ordel we denote by X and by Y the
+analogous derived function of <J with respect to 313 that is
+
+- n—
+
+X = 3⁵³} ψ Sss l ⁴ Zr-fa· 2r71>÷1v1⁴ l}
+ευ Ι. . . (2),
+l
+
+Ζ,,,,, representing {lb-⁹³* . Substituting φ, An, P, Z¹ for φ, Χ, Y, Z
+*mn
+in (⁶2) we have the corresponding expressions with respect to ψ.
+
+Denoting by f an arbitrary funetion, we now seek, what is re-
+quired, in order that
+
+φ 2 χω) .......... (3)
+
+may by (lifferentiation and elinnnation of f¹(1p) lead to a partial differen-
+tial equation, which is linear in ‘the above sense and of the n‘s‘ order.
+

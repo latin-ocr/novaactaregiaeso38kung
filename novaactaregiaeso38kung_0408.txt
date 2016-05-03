@@ -1,0 +1,62 @@
+10 Μ. FALK, ΟΝ THE IN'rEGRATmN OF PARTIAL
+
+When i: ⁷· the corresponding terms in (ti) vanish3 in order to ex-
+clude sueh terms7 we must transform the expression (6). To this end we
+use the identity
+
+i=n=
+
+Sor} = ἓξ ÷ §Sl . . ..... (8),
+
+whenee the vanishing terms are already removed.
+
+The first term in the right member of this identity undergoes no
+change, when we interehange r and ῖς thus this term becomes
+
+7⁴:11-1{:1·-1
+r r1 r! Z
+— S S[An-1-ivi Amy,- ι· ᾖ And-i i ¹12-l-1·.1·]Ze1121* διε-μα’,ιὲὶ · · “ (9)·
+7·:1 izo·
+
+This double sum may be regarded as extended over the surfaee of a
+rightangled triangel3 and if we sum over the same surfaee in reverse
+order, it will be seen7 that the expression (9) becomes
+
+zen-2> 7':7l-l
+Ἴ Ζ Z‘ 7¹ Z
+'- S S[ ‘11*l>1'.1 ‘nel-rr— '‘me ι ‘tc-1431· ]znrrvr 571>l-i,1'÷1 ·
+izo rzul'
+
+Thus the expression ((ὶ) becomes
+
+{zzz-2 ⁷:114
+
+Z Z* 7¹ 7
+S S 1¹21-i,i ‘lx-14:1¹ — ‘'z-141 Andrus] [3114st Zn-lr1zt'nrl—211-1·.1·:n-l>i.i·l 1¹* (10>·
+1¹:1¹1·:1†l
+
+Now as the equation (7) is to be linear with respect to the differen-
+tial eoeffieients of 2 of the n⁶¹¹ order, we must have
+
+7 7¹ 7¹ 7
+A ”’ '¹ · ’ = ‘wa-za* ‘⁴
+
+11-1-1.1 n-1›1.1 nel ra·
+
+fron] r Ξ i ψ l to ν· = η - 1 and from i: O to i: oz - 2 .
+
+The last equations also may be written
+
+7 Ζ
+32¹2ss = ma·- = .. . . . . . (11)⁷
+ΖΗΛ ,⁰ ΖᾸΙΞΛ Δ11 μ’
+
+where we have suecessively to put r: 1, 2, 3, (n—l); also, of
+course, it is supposed7 that neither ΖΗ,0 nor 70:71³, vanishes.
+
+Now the differential equation (7) will become
+
+{U-= V . . . . , . . . (12),
+
+supposing the following notatione used, viz.:
+

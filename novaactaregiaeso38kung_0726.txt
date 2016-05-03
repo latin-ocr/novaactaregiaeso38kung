@@ -1,0 +1,44 @@
+128 GORAN DlLLNER,
+
+Application au pendule simple.
+
+158. La construction goomotriquo des fonctions elliptiques que nous
+venons de donner aura une tros-belle application au pendula simple.
+
+En effot, soit Z la longuenr (lu pendulo, s] l'aoooloration et λ l’angle
+que fait le pendulo aveo la vertiealo dirigoe suivant la pesauteur3 dono on
+aura la formnle connue
+
+ 
+
+(1²73 Ξ μζί..ςῑιιλ . . . . . . . (400)
+dt- l
+et, d'apros avoir intogro'* uno fois,
+ι’Ζλ
+dt: ψ ᾈᾼ Ἥ ...... (401),
+V‘ffss'J-{g‘sm 1λ
+
+νο (Stant la vitesse angulaire dn pendulo ἐι l⁷instant on il passe par la verti-
+cale. Maintenant, on distingnera les trois cas suivants:
+
+1¹· Zv{ <49‚ o'est-{t-dirQ Z‘acce‘le'ratz'on centrz'pkte sm· [ιι verticale
+dham <49.
+
+Si l'on fait, en integrant la formnle (400), AmaX. Ξ μ, on aura
+
+vg :- LI-ss-Sinffffi . . . . . . . (402),
+d’on l'intograle (401) pourra s'oorim, cn faisant t ε 0 pour λ = μ,
+ἶ -ίῖ ’λ ἢ
+
+En comparant cetto formulo aveo la forlnule (386), on aura les rela-
+tions ‘tros-simplos:
+
+Vss}.c=11 ........ (404),
+0:⁹⁰⁶? . . . . . . . . (405).
+10⁶=⁴2⁶05
+
+Dono, pour construc're Z'anyle λ quefait Ie penclule avec la verticale,
+on portem sur I’arc ΟΙῘΙΙΔ1 la valem· u = xsg . t [siff. 16], la courbe
+
+OlMAl e'tcmc supposc'c construite pom· le parambtre lc z Sin ἐμή (dors Pan-syla
+

@@ -1,0 +1,33 @@
+Imaginons qu'un systetne de rayons partant d'un 6611116 fixe est traverse
+par un systeme de eourbes planes. Nous nous proposons de determiner 16
+systeme des eourbes tel, que leurs ares eontenus entre deux rayons quel-
+eonques soient (16 meme longueur. Un pareil probleme existe relatis aux
+surfaees, dont Je traiterai plus bas. Bien qu'il ne soit possible d’assigner
+en termes primitit's les equations (163 eourbes et (163 3111111663 que pour
+quelques eas partieuliers, pourtant se presentent quelques proprietes, il me
+semble, dignes (16 remarque, qui distinguent les systeEmes en question.
+
+1. Εῳιαίίοη (Ιῇἶῑνεηιίἑίίω des courbes planes.
+
+Prenons le eentre (163 rayons pour origine des eoordonnees rectan-
+gulaires ω, 3( et (163 coordonnees polaires r, v,- et (lesignons par 3 l’are
+d'une eourbe, qui joint le rayon fixe vzo, axe des ιτ,ε1ν6616 rayon
+11101111 v = v. Faisons varier cette eourbe, 363 1101113 glissant le long (163
+deux rayons, pendant que v reste eonstant. Si elle 631 11116 60111116 (111 sy-
+steme (10111 11 s'agit, 3 restera aussi eonstant3 par consequent, lorsque v
+varie en meme temps, 3 sera fonction de v seul, et par la fonction
+
+s=fv
+
+que nous consideremus comme donnee, le systeme des eourbes sera eom-
+pletenient determine.
+
+81 θ designe l'angle entre 16 rayon et la normale, on a:
+
+ὃν
+
+——f¹vsi11.9, r=f¹veos&. . . . . . . (1)
+
+ὂ v
+Nova Aeta Reg. Soc. Se. Ups. 861. 111. 1
+

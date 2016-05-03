@@ -1,0 +1,40 @@
+80 GoRAN DILLNER,
+
+eotangente dans Ze sens ye'ne'ral. ἢ De 16 formule (173) decoulent ces nota-
+110116 symboliques des fonctions tang. hyp. et eotang. hyp.:
+
+Th (v) Ξ 2·ng Ι
+Ι, ...... (192).
+Coth (v) = ἒ Cotg ²2²}
+
+Remarque. La construction geomeo-ique de 16 fonction Tg u pourra
+s'exeeuter en construisant, selon 16 figure 13, les fonctions Cos u et z' Sin u3
+
+alors, 6 l⁷aide de l'egalite legu = ²53}qu = (ἐξ, ou consti-[lira facile-
+ment la droite iTgu, le triangle OGS 616111 semblable 6 661111 (10111
+166 613166 iTgu et 1 correspondent aux cotes OS et 00 [voir Geom.
+
+kalkyl, Tidskrift for matem. och fysik, firg. 1870, pag. 31].
+
+98. Les inversas cles fonctions tanyente et cotanyente. Si
+l'on veut, dans 16 foi-mule (179), exprimer u en fonction de 3, on aura,
+conformement aux formules (174) 61 (175),
+
+u = Tg‘¹((13)) = '1¹g*¹(<3)-{-u.7r . . . . . (193)
+ou
+u Ξ Arctg ((.3)) = Arctg (:)—{-³w· . . . . (194),
+oii l'on designe par les 610611616 simplos 16 valeur principale, et par les
+crochets doubles 16 valeur generale (16 16 fonction inverse.
+Quoique 16 fonction Arctg signifie oriqinairemenc l'inverse de 16 tan-
+gente trigonometrique, elle est definie, ydne'ralement, comme l'inverse (16 16
+fonction tangente, prise dans le sens ye'ne'ral de 16 formule (190).
+La valeur principale ²10 = Arctg (ι), etant reproductive par rapport
+aux deux 16611166 6611666 1 61 y [= —1] de l'unite [(182)]‚ sera deve—
+loppable, d'apres 16 formule (88), 611 unc serie eonvergente pour Ξ < 1.
+
+99. 131ιί611116, d’apres 16 foi-mule (181), 166 racines de l'equation
+(Tg u) = (kls-27⁶ = Ο 60111 1·epresentees par les valeurs u = ssz‘oo «ᾗ-κπ
+[(171)], 16 fonction Aretg ((z)) representem, suivant le 11” 64, des branches
+parallelas, pai-tant de tout point ssz'oo †›u.7r, les points d’embranchement
+etant z -l-z'.
+

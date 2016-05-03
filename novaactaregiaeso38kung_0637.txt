@@ -1,0 +1,51 @@
+TRAlTE DE CALCUL GEOMETR1QUE SUPERIEUR. 39
+
+1⁰ Pour z =1 on aura, les notations [ρ et f<⁰'(a) &signant
+respectivement l'unit& et f(a) [11⁰ 29, rem.]:
+
+ἓ ἴθι-ΔΓᾟῘἏᾯ :f(a)-{- Ξ ·]“(“)((ι) ÷ [gir ·f‹2⁰>(a) † . . . (66).
+
+De cette formule οι] tirera:
+α) pour σ = 1, la sfflffe de Taylor ou
+
+f<a ζ 12> ΞΛα) ψ’ῑῑ -f<a>÷ {fao ψ -- . . ;
+
+β) pour σ = 2, [y = 1η], on trouvera la wie suivante:
+
+ὲ {aa ψ 22> ÷f<a— m} = foc) ÷[{ ·f''(‹1>†r ἓν (a) ψ .. . .
+
+qui s'applique aux fonctions paires, en supposant a = Ο.
+
+2⁰ Pour z = 2 011 aura la &rie suivaute:
+
+’ἕπῑζζῖζὲ = 'g-fffl ψ ,ζῇς -f‹0÷1›<‹1> ÷ ,ζζςς1 ‚swam (67).
+
+ 
+
+De cette formule on dfiduira:
+οι) pour σ = 2, [γε 1π];
+ὲ {f(a÷h>—f(a—12)} = '13f'<a>÷[ss3·f”(a) ψ (lgna) ψ .....
+serie qui peut &tre employae pour des fonctions impaires, en supposant
+a = Ο ·
+7β) pour σ =' 3⁷ [y = 1÷n]2
+ζ {fflf-h) ÷ff⁶ffl²y> ψ f(‘¹ ssffig ε ξφ (a) ÷[{ ·f·x (a) ΔΓ ᾗ sm) ψ
+7 Y ἡ
+et ainsi de suite.
+
+ 
+
+Remarque. En posant dans la formula (65) f(z) = ε’, 011 aura
+cette formule remarquable
+
+ri? eh '‘yr-l hr— 1 h6÷1-l 1ὶῖ ῡ-Ι-ῑ-1
+- σ-(ῑζψ [τῇ † [qm—51 ÷ [ἑῇ-Ἰ
+
+ 
+
+ 
+
+4-....
+
+qui, pour h = 1, donne la somme des valeurs reciproques des facult6s‚
+combinoes d’un nombre illimite'z de ma11it'3res.
+

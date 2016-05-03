@@ -1,0 +1,57 @@
+TRA1T133 DE CALCUL GF'JOMETRIQUE SUPERIEUR. -5
+
+Romen-que 2. 11 faut observet· que le criterium de continuite
+d'une fonction f(z) donne au n⁰ 1 est ne’eessairement satisfait, des que
+
+f(2 -1- h)—f(z)
+
+lim h ou f'(2) est une quantite finio pour toute valeur de
+
+ 
+
+ 
+
+Ϊι quand limi-z = O. Pourtant il ne s’ensuis pas de Ιὲ, que la continuit&
+d'une fonction soit en general bornee au eas ou sa derive'e est finie.
+Comme nous le vei-rous, la continuite dont nous ferons usage dans eette
+theorie sera exelusivement fondee sur l'hypothese d’une derivee finie3 c'est
+pourquoi, en parlent desormais de la continuite d’une fonction, nous enten-
+drons qu'elle est assujettie ἐι cette restriction.
+
+7. La signification de la differentielle (Ζρω d'une quantite complexe
+ρω se trouve de la maniere suivante. Faisons decrire ὲ, ρω un eontour FP,
+ρ etant le rayon veeteur et ω l’augle polaire [fig. 2]‚
+et 1·epresentons‚ d'apres le 11⁰ precedent, la eorde PP'
+par Δρως alors
+
+Δρω = (ρ-Ι-Δρ)ω ÷ „am—90,-
+
+En ajoutant, membre ἐι membre, l'egalite Ο = (ρ-ὶ-Δρ)ω
+—(Q -1-ρ)υ, , et observant que
+
+ 
+
+- 1
+ljw—-l =iAoQanBEJ¹ ‚
+{Am Ξ-Ῐω
+
+οῐι 2⁸ Ξ 11τ, 011 trouvera, {t la limite, en divisant par une quantite eva-
+2⁴
+
+ 
+
+nouissante Au et en posant ds = V(d9)2†(9Tae)²‚ la formule suivante:
+
+ 
+
+02—002 ᾖ 50ss Q - {2⁵
+du — (du ’ἱ- ² dago, — (d²‘)aretg('{ss'¹4w’
+ρ
+ou, si l'on introduit les differentielles,
+ἄρα, = (dte ÷i9doe)ffl = (ds)ar⁰tgoffg‘ ÷w . . . . (3).
+
+En posant ρω = ξ -1-ίη, on trouvera d'une maniere toute sembable
+la formule suivante:
+
+0290, Ξ αξ ÷ idn Ξ (αθακῒὲἑὲ ...... (4) .
+

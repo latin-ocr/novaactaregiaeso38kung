@@ -1,0 +1,45 @@
+2 Μ, FALK, ΟΝ THE INTEGRATION or· I’ARTIAL
+
+The least value, we ean in ordinary cases give to n, is therefore
+vz=2r—1.
+
+Thus
+
+A primitive (I), containing] r arbitram] fzmctions (ψ’ tlte finnt, conside-
+red above, will μυᾶν-(1113] yive risa to a partial differentia equation, of the
+(2r-1 )⁸t order. ¹
+
+But in special cases (1) may give a differential equation of an order
+lower than the (2ν-1)·“; for instance, when the equations, where the highest
+differential coefficients of ε are those of the ΥΠ* order, do 1101 001113111 1110
+funetions φ , φ’ , . . . (pff-¹), but only (0101, φρ, , . . (pff). These equations are
+(r-t—l) in number and will 111 general give by elimination of the functions
+<Dm a partia] differential equation of the Μ’ order. If now ν be ζ 2, 72
+will be > νς because n —r τ. r— 1 . If r z 1 , then η z 1 , and the
+special will coincide with the general case.
+
+Without further reasoning we eall (1) the fleam-<cl solution or primi-
+tive to the differential equation, if (1) contains r arbitrary functions, the
+order of the differentia] equation being r, that is: if η = r. This will, in
+fact, agree with the statement of Lagrange respecting partia] differential
+equations of the first and second order. It may be observed, that for 2:⁶2
+
+the special case 22:¹3 (in the general one, 'n Ξ 3) coincides with the state-
+ment just cited,
+
+Some examples will throw light on the above theory. We will, how-
+ever, first make a few remarks as to some points 111 11, Α solution of a
+partial differential equation ouylzst to be called general, when it contains as
+many distinct arbitrary functions, as possible, and satisfies the differential
+equation. Now it may perhaps happen, that a given partial differential
+equation of the „m order cannot be satisfied by (1113] relation containing
+ω, , y ‚ ε and r distinct arbitrary functions3 the solution which in this case
+would be called general, is then according to the definition above given,
+not really so. Thus there may perhaps be partial differential equations,
+deprived of any general solution 111 the usual sense of this term. — As to
+the form of (1), it is not the most general possible, because each of the
+functions φ contains only one definite function v, although it might have
+contained any number of such funetions3 it is, still, enough for our purpose,
+because, as will bc seen afterwards, 111 11115 1110111011· we only obtain general
+solutions of the form (1).
+

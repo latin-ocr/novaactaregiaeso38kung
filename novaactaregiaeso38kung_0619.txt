@@ -1,0 +1,48 @@
+ΤΒΑῙΤΙΙ] DE CALCUL GiiOMJJJTRIQUE SUPERIEUR. 21
+
+sera eyale ὰ la somme des i2zte'92·ales ἶίηεάἰνεε, prises d'zm point c du contour
+P aum points 041, αἳ . .. αι’, des cecmes infi'm'ment petits entouranc les points
+
+crz'tz'qnes al, αἳ, . . . ap, plus Za somme cles inte'yrales circzelaz‘res autom de
+
+ces cercles infiozz'mem petits.
+
+Remarque. En s'appuyant sur la formule (32) on pourra calculer
+la poiriode Ω [11¹² 16, 2·“] 011 la corde Ro R¹ du contour (16 l‘inoegrale, et
+par cela meme distinguer les cas οὺ 1161631616 entre des limites donncfies
+sera une fonction ou uniforme ou multiforme de sa limite supfflieurQ et par
+suite celle-ci une fonction peiriodique (16 1’11116ς1’1116.
+
+23. Soit F(2) la primitive de la fonction f(.3)‚ ou f(z) = F‘(2)‚
+et supposons que a reprdsente 1111 point ἐι l’inte'rieur du contour ferm& P;
+posons 611 suite,
+
+2=a÷03
+
+alors 011 aura ἐι l'aide (165 foimules (14) et (32), cette formule importante
+
+sf<2>dz=F<a÷e ÷27> -μαψωῐ sfwl wsswd (33),
+
+qui s’enonoe comme il suit:
+
+La corde Ro En, correspoudame ὰ zm contour ferme' P [fiy. 4]‚ ou la pe'-
+riode Ω, pourra s'emprz'mer ‚de ces deum* mambres.- 1⁰ par ‘eme somme d’z'nte'-
+yrales Zz‘ndaires et circulaires' [72⁰ 22] , 2⁰ par la dzfflrence des valems de la
+primitive F(;') pour des substitutions a-1-9ffl42ff et α-ὶ- ρω , α &tant
+un point ὰ Z'z'nte'rz'eur du contom· P, et en infime temps Z’orz'yine de la variable
+compleme ρο, qui de'crz't Ze contour P.
+
+Romam-que. On peut voir par Ιὲι (1116 la proprie't& d'une fonction
+F(.2) (16116 anoecodrome 16 long d'un oontour ferme P, suppose que sa
+(1611166 f(.:) ait des points critiques ἐι l'interieur du contour, d'osi il 5611-
+suit (1116 165 points d'embranchement (1’11116 fonction tirent leur origine des
+points critiques de la chirivfflff.
+
+V. CALCUL DES INTEGRALES CIRCULAIRES.
+
+24. Si l‘on a, pour ,ἵ = α,
+lim (fs—af. FC) = A
+οἰι Α est 11116 quantit& finie, 16 point α s'appelle un infim' de l'ordre s (16 la
+
+fonction F (z) et un :e'ro de Cordi-e s de la fonction Fl(2)'
+

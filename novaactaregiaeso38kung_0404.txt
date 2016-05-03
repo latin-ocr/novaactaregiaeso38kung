@@ -1,0 +1,49 @@
+ss M. FALK, ΟΝ THE IN‘rEonA‘rion oF PAR'riAL
+
+In the first case we have for n ἢ 2ν- 1 a system of ?Q1[1)
+
+r (er—1) equations‚ containing q, φ’, (ΝΗ). There is, therefore, only
+oue more equation wanted, in order to be able to eliminate the ν n:r(2r-1)
+tunetions (p, φ’, ..., ι[ι(”’”. This desired equation will in general be obtai-
+ned by eliminating the r funetions ‹J(’¹) between r -}-1 of the vn-†-1:2r equa-
+tions, which involve (ΙΨ) . We see, that there are several ways to construet
+this equation, wherefore also we may get more than one differential equa-
+tion from the given primitive. The equation required will be of the form
+
+κ (Λ, ‘sm ‘s-22 (fr, (Η, qs, ‘11,··-¹t(1'¹‘¹³‚ ‘sss-”⁷ ‹sf.⁷¹-¹³):O..(f)‚
+
+where J is a determinant, which is linear with respect to the differential
+eoefficients of ε of the Μ’ order. Now eliminating φ, ψ, ‹pm-¹> be-
+tween (f) and the before obtained equations‚ we get an equation of the form
+
+Α :f (Ψ ’ y ⁹ ἴ ’ :lma 317] π ‘3:05 ”7117 ‘'70AE 7 ··· 51141117 ἱππ-2.] 1 .·. Zinnffl) · · · (9) ν
+
+ΒΙ’Ϋ’Ῐ;
+where ,Μ —- ‹lffdff'
+Thus we see, that, when the differential equation is of the (2r—1)⁸‘
+order, it also becomes linear with respect to the differential eoeffieients of z
+of the (2r—])⁸‘ order. We may, moreover, get more than one such diff.
+equ. from a single primitive.
+
+ 
+
+Secondly suppose τῖεν. Then we have (vids-1) equations involving
+‹11²¹‚ qs, ..., ‹sn'l As these functions oeeur in a linear form⁷ elimination
+between them ordinarely leads to a single equation, which is linear with
+respect to the differentia] eoet'tieients ot¹ ,ε of the nst order, that is: involves
+a linear funetion Δ of these quantities. This equation, then, will be of the
+t'or1n(f)7 where n is to be put t'or r or vice versa. Now elimination
+between this equation and the equations involving φ, (χ’, ,ιβ’-1) must
+remove all these functions aud give a single differential equation of the ‘2¹¹'
+order7 which is linear in the differential eoeffieients of ε of the ost* order.
+
+There is also another mode of genesis of a partial differential equa-
+
+tion from a primitive. Suppose
+ε :f(m‚ y, (11, 02, ‹1,.). . . . . . (h),
+al , α.2 , m. being r arbitrary eonstants, Such an equation Lagrange has
+
+termed a complete pri1nitive.' Thence we get by differentiation {EQ-›QLQ
+
+..ι
+

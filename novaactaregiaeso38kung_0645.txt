@@ -1,0 +1,55 @@
+TRAH‘E DE CALCUL 6601161111666 SUPE'JRIEUR. 47
+
+de periodes, 11116 fonction quadruplement periodique sia: reseaux de perio-
+des, 616. >k).
+
+57. Un simple et tres-bel exemple dune fonction periodique a
+plusieuls 11611οᾰ66 661 fourni par la fonction z = ψ(1ι)-ψ(ιιο-1- “2252)
+(ΖΞ
+
+qui provient (16 lintegrale u: [ΖΜ ‘53 :ks·:]s(7 α)(,, (γ),- (T a)
+u-1 — Ν-
+
+61 6611116116”·1161166611(161116 dAbel’. Dapres la formule (73) on aura les
+oz pel-dodoni& ω(1).ω(2, com ,m pour lesquelles les integrales speciales se-
+10111 ”m = 21OE = um) = -2‘03 de plus, on en deduira les pdriodes
+distinctes wo* 2) z κύω-4142), aad, 3) = “hm-‘wem ωη, Π) = m<„——c‹›(‚„‚ au nom-
+bre de (oz—1), les autres periodos comm: com—Q, = coasts—coust,
+eto. etant les eombiuaisons de 666 (n—l) donnees. En supposant qu'un
+eontour ferme P renferme les η points d'embranehement α17 ‘¹2³ ...‚ a„
+et qu’il se compose d'un cerole C (166111 autour (16 20 comme 6611116, 61 (111
+chemin 200220 passaut 16 long d'un rayon ,200 611 66116 direct et 16110-
+grade, il sensuit, d'apres la formule (49) pour n ε 1111 nombre pair,
+20 = ο etant 1111 point au 661116111 P,
+
+ 
+
+ 
+
+ 
+
+e
+sf(3) dx z wax—ww) †c‹)(3)—-co(4)-l— †ws,1,1‚—co(„)= 4²(1,'2)†'‘⁴³(:3,4› ΛΓ... c‹)4„-1y„)...(79)7
+
+611 166 indices pourront 6116 permutes d'une maniere queleonque. Or, pour
+ΖΟ C' couvergeant vers l‘infini, la fonction f(z), pour n > 2, convergera
+vers zero, d’osl il suit, d’apreS la formule (13), que l'integrale prise le
+long du cerole O doit 6116 nulle. Puisque ΠΕ), pour n = 1111 nombre pair,
+est oeeodrome le long du 661616 Ο, l’integrale‚ prise 16 long du rayon ΖΜΟ
+dans les sens direct et retrograde, doit aussi 6116 nulle. Done⁷ l'integrale
+prise 16 long du 601116111 Α (1011 6116 identiquement nulle, (1611 1’611 aura
+l'z'dentz'te' suivante
+
+w(1‚2,†⁷w13'4,† . .. ⁶²²‹ru—1,n> = O . . . . . (80) ,
+
+166 indices pouvant 6116 combines deux ἐι deux d’une autre maniere quel-
+conque.
+
+ 
+
+³⁶) Chez BERTRAND [Calc. Integral⁵ pag. <3011 se trouve un theoreme sur ''l'im—
+posibilite d'une troisieme periode''‚ d'apres lequel il serait possible de eonstruire un
+reseau unique dont les points de croisement remplaeeraient tous les points (16 610166-
+ment des trois reseaux distincts de periodos, 66 qui est, en general, evidemmeut
+impossible.
+

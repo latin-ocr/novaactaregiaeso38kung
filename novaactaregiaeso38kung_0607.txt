@@ -1,0 +1,53 @@
+TRA1TF: DE CALCUL GFJOMETRIQUE SUPJZRIEUR. ,9
+
+ou, qui est la meme chose, quand s = ἧι -ἤ-ἦΞ-ί- E„ dest-a-dire, 78
+
+= la longueur absolue du contour ΡΟΡιΡ2 P„‚
+
+mod s}(2)0z2 < Ms ....... (13).
+
+On aura dono oet enonce: Ze modula de Z'z’nte'yrale dffim'e d'wze fonc-
+tion symea-tique *) est moindre que Za lonyueur du contozm entre les limites de
+
+Cintesqrale, multiplie' par Ze plus yrand modulo que peut ret-avoir la fonction
+entre ces limites.
+
+14. Si F(.z) est la fonction primitive de ΛΞ), ou f(,3) = F'(2)‚
+on aura, d’apres les formules (1) et (8), les egalites suivantes:
+F(31)—F(20) = h13f(20)† ειὲ ,
+F (Εὐ-Ρ (21) = 7²2ssf(21)†ae2} ‚
+F(Z)- F(2n-1)= lt„ {foa-1) -1- en} 7
+
+01³1 21, εἳ, ..., e„ sont des quantites complexes dont les modules s'annu-
+lent ἐι la lim η = 00. En ajoutant ces e'galites on aura
+
+F(Z>— Q) = L zife-1> ΔΓ, fter .
+
+Si m est 16 plus grand module qu'aucune des quantites ει, 52...g„ puisse
+avoir, il s’ensuit d'apres la formale (13), s designant la longueur du contour
+
+⁷⁶:71
+entre les limites 20 et Z, que mod ΣΙιΓεΓ < ms pour lim oz = 00, et par
+r=l
+
+consequent, puisque m s’evanouit ὲ, la limite:
+
+F(Z)-F(20)=ſj}(.2)d2 . . . . . . (14),
+
+d’oii re'sulte cet clionee: F (z) etant Za primitive de Za fonction f(2), l'z‘n-
+teyraZe definio de f(2) entre les limites ΞΟ et Z est Za diffe'rence des valeurs
+de Za primitive pom· les substitution-<5 Z et ἕο.
+
+Remarque I. D’apres cela, la sommation (165 series complexes (16
+la forme (9) est toujours possible, des que l’on connait la primitive F(z)
+
+ 
+
+ 
+
+*) En parlant de l'integrale d’nne fonction syneotique, nous entendons que la
+fonction soit soumise ἐι la condition d'etre synectique en tout point du contour le long
+duquel l'integration est effectuee.
+
+Nova Aeta Reg. Soc. Sc. Ups. Ser. ΙΠ. 2
+

@@ -1,0 +1,40 @@
+DOEFERENTIAL EQUATIONS OF THE 22⁸¹ ORDER. ‚21
+
+rential eoeffieients of z of the (11- 1)⁵2 order, make the arbitrary funetions
+f arbitrary constants.
+
+Em. l.
+{⁶³²3ss 4- δαεῖιζιεῖ,1 Δ,- 3oey²slv2 -Ι- ῃ3εο,3 -1- ἱὶζιιτἍῑῖΛΟ -l- 2oeysl-¹ ’ἦ- Zl²50.2) Ξ O.
+The equ. (20) has here all its roots Ξ {3 then (21) and (23) become.
+dy —- Ξ dm Ξ Ο ‚
+
+(2:2¹0 ’1- 235‘13124-{3‘1702 *i* 2(52,0 ‘i' 23:3³1] ‘i‘ ἴῖίἷοω) d—ZJ Ξ Ο,
+whence by integration
+ry Ξ 00
+
+‘L 1 ³5²³?ss ἦ- 2t²73l3r1 15312502 “-“” β·
+
+Τ116 given differential equation has, therefore, only one general first
+integral viz.:
+
+35²&ss ‘i‘ 2oey51.1‘i“ 1²!2502 1- Ϊ(ἔ) Ξ 0,
+
+f being an arbitr-ary function. Now integrating this equation by means of
+the equations (20), (21) and (23), we'‘-get the auxiliary system
+
+dy —- {dv Ξ Ο,
+
+[ΜΟ ÷ &0120l †f(31) ἐξ Ξ 0,
+[U 2¹13 x
+whence ΞΣ 0⁶1 and :1¹0 4- {²02 Ξ (ἒξ -1- β1; 111113 1116
+
+general 3660111 integral of the given equation will be
+
+„vem ΔΓ 21:0‚1 Ξ f& ÷ ‘w (θ’
+
+φ being another arbitrary function. Applying· again to this equation the
+foregoing theory (which now identieally coincides with that of Lagrange for
+
+solving linear partial differential equations of the first order), we get the
+auxiliary system
+

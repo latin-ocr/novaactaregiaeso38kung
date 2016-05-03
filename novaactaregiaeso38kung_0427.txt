@@ -1,0 +1,54 @@
+DIFFERENTIAL EQUATIONS or THE 722⁶ ORDER. 29
+
+Treating· this identity in a similar way, we get
+
+gQfffflssssgffffl=ramffwflm-mwfflmm÷wfflwmnffw>
+Η
+
+ 
+
+ 
+
+This process we may repeat as many times, as we please, and we
+see, that the exponent of that aa, which multiplies the function ψ 111 the left
+member, determines the order of the highest derived function of f(m),
+that occurrs.
+
+Now, as the root m is repeated λ times in f(m.) z O, we have
+f(rn) =f¹ (m) =f⁴¹ (m) z fſtr„ (1η) = O, and, therefore, the right
+members in (45) and the equations, that are derived fron] it by the (λ-4 1)
+first differentiations with respect to m, will all vanish. These equations‚
+therefore, shew that the equation (43) will be identically satisfied by every
+one of the expressions, that stand in the enunciation of the theorem.
+
+Corollary. As we have obtained Λ distinct solutions belonging to a
+root repeated λ times in (44), wc can. also here, get n. distinet solutions
+and, therefore, by theoren] Π the general solution of (43), even when (44)
+has equal roots. That general solution will be ε = a sum of oz terms,
+presenting for every simple root 111,. a term φώρ-111111) and for every
+root m, repeated λ times, a sum of ternis of the forn]
+
+1 (y — 1111) 4 11110 — 111) 4 112 <y — 1111) 4 4 ¹ 1)-1 (11 4 111).
+
+These theorems are, of course, valid, also when (44) has imaginary
+roots, but then the solutions will involve functions of iinaginary functions.
+
+We now proceed to set forth some corollaries to theoren] I, as far
+as it applies to the equation
+
+‘S ciffi„ = 1* = Fa, y) ...... (48),
+ι’ΞΟ
+
+shewing how to obtain a particular solution of this equation.
+
+Corollary Ι. If I* = F(oe)‚ u may be considered as a function
+of cv onlyi then the equation (48) becomes, when ε = u,
+
+CO und, = F(1) ‚
+
+whence it follows, that we may put
+
+u = gosuFQr) dost
+
+sudenoting n successive integrations with respect to x.
+

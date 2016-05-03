@@ -1,0 +1,39 @@
+40 M. FALK, ΟΝ THE INTEGRATION or PARTIAL DIFF. EQUATIONS mo.
+
+Ay—Lzl'1 = ssVLTJ.oe-{—y, L:2¹0 = ssVZUy-1- ὃ.
+
+Now taking out the values of εΗ and ς] 1 and substituting in
+ἀει 0 = :2 0ch -1- z 1dy, this equation will become integrable, if these
+values be taken the one foi the uppei and the other foi the lower sign of
+the suld.Tl]elef01e these values will satisfy the equations
+
+Ay ——LsL1 = ss VZAUffv-l— γ
+and
+L³2.o= ssVzU.y-{-3.
+
+Now multiplying these equations by — dy and dx respectively
+and adding we get
+
+L 0-÷tyVLU÷A2÷3v—ys†2
+
+whence by integlation with respect to υ
+
+, 2
+
+μ. z ‡3}VZT†÷A‘²÷{‘— ÷ δξ-γωμψεωψφρκ),
+
+φ being an arbitrary function. That this mixed solution is particular, is
+shewn by ξ 1.
+
+We do not suppose, that we have here overcome all the difficulties,
+which exist in the delicate problem of obtaining a theory of partial (liffe-
+rential equations of the form treated in this memoir. As to our method of
+deduction, it is essentially the same as that, which Boole in his sl‘reatise
+οη dgfferential equations applies to Monge's linear partial differential equa-
+tion of the second order:
+
+Ro· ÷Ss÷ Tc=1z
+
+We hope in a future memoir to extend the theory, now given, to
+any number of independent variables.
+

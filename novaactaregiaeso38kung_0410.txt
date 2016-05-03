@@ -1,0 +1,50 @@
+12 Μ. FALK, ΟΝ THE INTEGRA'HON or PARTIAL
+
+they will, in fact, when equated to arbitrary eonstants, be integ-vals to (11),
+(15) and (16). By means of these equations we have, therefore, to de-
+duce a system of ordinary differential equations, to which the equations
+(14), considered as simultaneous, are a solution. qi and ψ being found,
+an arbitrary relation ‹p=s(1,l1) will be a first integral to (12). The system
+of ordinary differential equations, from which φ and ψ are to be found,
+may be deduced in the following manner. From (16) we get
+
+ 
+
+dl( X ῆι §A X ψ §A
+(ἴω Υ ÷ ΞΖ Y ψ Sl
+
+Multiplying in the second member numerator and denominator by
+
+ZJ-m, in the third member similarly by ΖΗΝ and subtraeting numerator
+
+from numerator, denominator from denominator we get by means of (11)
+
+and (13) dy XZ‘ — XZ l U
+
+ 
+
+dm Ξ {fliz-¹1⁴1] -Y'Z‘ffjilffj' — fan-defflj . . . . (17).
+
+From the first and second members of (17) we find in virtue of
+(11) and (13)
+½÷f⁴121sslg=ffss . . . . . . (18),
+dev L„
+where we have to put suocessively i: 1, 2, , n— 1. The formula
+(18) also involves (17), if we, as before, suppose μηΞΟ.
+
+Now, supposing 22:22— 1 in (15), put sueoessively =i=o, l, 2,
+, oz—l, and having multiplied the equations, thus obtained, in order
+by μω, po„ , μ, 1 add them, we thus get after division by dr
+
+Sffifztssgzpa -1-811ψ(μ-1-μιξ111)1“””·μ“ἕ
+
+ch
+
+or, in virtue of (17) and (18),
+
+3 a , J} ,
+l μ’ -ῑἸὶᾈ UH
+
+or finally by (12)
+[7⁰1 μ, (st, „„= Vela). . . . . . . (19).
+

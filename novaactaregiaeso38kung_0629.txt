@@ -1,0 +1,50 @@
+l
+
+1
+
+TRAITE DE CALCUL 6601161610116 SUPERIEUR. 3-1
+
+la fonction ΗΕ) etant du reste syneetique pom· tout point du eontour P
+61 (16 l'aire incluse.
+
+Remarque. En eornbinant la formula (43) aveo les formules (49)
+et (50) 011 pourra (10110 6111111161· l'integrale (le'finie d'une fonction f(2) le
+long d'un contour ferme P qui comprend 11 801111116116111· 8011 (168 points
+d’embranchement⁷ soit (168 infinie.
+
+VII. LA SERIE DE TAYLOR ΕΤ QFELQUES AUTRES SERJES.
+
+[Le 661616 (16 eonvergence bornant 16 ohamp de syneetieite]
+
+40. Une des plus belles consequenees du 1116016106 fondamental de
+Cauchy c'est la (16(111611011 (16 la 86116 (16 Taylor, la regle de sa conver-
+genoe etant 611 meme temps mise au jour. Avant d‘aborder cette (16(111611011,
+110118 exposerons quelques 00110118 preliminaires concernant les 861168 (168
+quantites eomplexes 011, comme 011 168 appelle pour abreger, 168 861168
+complexes.
+
+Une serie complexe
+
+8.- εο-1-31-1-...4-30
+681 dite σοηυωῃεηΐε, 81 la somme (168 termes est finie et dc‘termz’nde.
+Une serie complexe ι101111 (16 66 criterium qdne'ral <le converyence.
+Si les termes so, sl, s„ sont bien determines, et que la 80111106 (16161118
+0101111168 {ol-{1 0¹,— -1- ᾗ, 8011 finio, la 86116
+
+80-1-81 *lma-ks„
+
+sera convergyente.
+
+La verite de 661 61101166 86 fait voir immediatement, parce que 16
+module d’une somme 681 < la somme des modules des termes, 011
+
+TS7<J¹ 'fs—1 -1-30.
+
+41. Si 168 termes 30, sl, su d'une serie convergente sont mul-
+tiplies par (168 quantites finies 61 de‘termine'es (10, al, ..., a„ dont les 1110-
+(111168 sont quelconques, la 86116 0111611116
+
+Sl = ‘¹0³0 λςαιις·1 16 (1030
+
+sera convm'yente.
+

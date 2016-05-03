@@ -1,0 +1,45 @@
+ΤΒΑΗἘ DE CALGUL GEOMETRIQUE SUPERIEUR. 85
+
+[huo'J-——ss-oe, lss;‘o=—00q l“;(0=—2}2-00‚
+ou, ce qui est la meme chose, suivant les formules (204 et (205),
+—1 = T(———00)
+ξ ....... (214).
+1 = Zspo)
+
+107. De'veloppement en se'rz'e. Puisque, d’apres 16 11ἢ 63, 1⁰, la
+fonction periodique T(1‹) est sy nectique pour un champ R, correspondant
+
+au ehamp de syneeticite P de la fonction s(.z) = ὲῑ, 11 s‘ensuit que
+
+1 ÷ ³
+T(u) sera syneetique pour tout point possible, saus peut· -etre aux points u
+qui correspondent aux points z = a„ ,ε = a, et z = ag. Mais, comme
+tous ces points sont situes ἐι l’infini, ils ne pourront etre renfermes dans
+aucun cerole de conv·e1ge11oe de rayon sim. Au contrahe, en faisant
+
+= ζ dans l’equation differentielle (196) et prenant l'iutegrale π’ = Jow
+
+ 
+
+1 -Js—„z 33
+d’ou 00 = T(u), on (1611101111616 aisement que cette valeul u de u sera
+finio. Donc, la fonction Tm) aura trois infinis 211¹,ch et y2'u [(204)].
+A l'aide de la formule (203) [11Ο 6 qem. 2], 16 661616 (16 convergence de
+la fonction T(u) aura, par consequent une etendue quelconque, poulvu
+qu 11 ne renferme aucun de ces influis. Dono, on tirera de la forruule (88),
+pour σ = 3, en observant que la fonction T(u) est reproductive par
+rapport aux trois racines cubiques de 1,
+
+Tm) ε ²1⁶T‘(o)-1—[{-T¹v(o)†[⁶{-T=·==(o)÷... . . . (215),
+les derivees T'(0), T¹”'(0) etc. devant etro calculees d’apres la fol-mule (203).
+Le developpement (16 la fonction Qu) se deduira immediatement de cette
+formule a l‘aide de la foi-mule (205),
+
+3002311 T(O)— ἷέῖ T (o) (ῖέ T ·.(())-. . .. (216).
+
+108. Les inverses des fonctions T(1{) et ἶφι). Si l’on veut,
+dans la formule (198), exprimer u comme fonction de 2, on aura, confor-
+mement au n‘· 98,
+
+u: T-1(<.2)):T-¹(2)÷}7rz·.'{³3 . . . . (217),
+

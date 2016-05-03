@@ -1,0 +1,53 @@
+TRAITF: DE CALCUL GP'JOMETRIQUE ευΡΡζΒΙΕῑἫ4 ⁷ '57
+
+Generalisation du theoreme fondamental d'Abel.
+
+Tl. Maiutelrant, en nous appuyant sur les propritsstes reproduetives
+de cel-taines fonctions '⁷alg·‹³3b1·iques”, nous allons faire une gaueralisatim] du
+thessoriaeme fondamental bien eonnu, donne par Abel pour les fonctions ellip-
+tiques et abffliennes, gfflffiralisatiou qui sera d'une grande importance (lans
+nos recherches ultderieures.
+
+En effet, soient a, μ. m et ‘n des entiers- positisls‘, et posons
+
+σ>2 . . ..... . . (91);
+posons‚ ensuite.
+
+παρ ÷oe1 ψ - .- σιμ 2¹²⁰) = w)
+a0†a1.z⁰—{— a‚„.:'¹¹⁰) :95(z) ⁸ ’ ” “
+
+Οΐι ‘20³ αι, a„ (ffisigllent des parmm‘dres arbitraires, et ao, a„ am
+des constantes: alors la fonction <Dm sera repo-oductz've relativement aux
+σ racines σ”””“’ιζ de sunit& 1. y. γ’, γἨ. [y Σ lffl:v mais, au eon-
+
+,μωμ
+
+trahe, la fonction χ(ε) sera irreprodnctive relativement aux memes quau-
+titfffs. Posons, de plus,
+
+Ι”(ῑ’) = ᾷχ(.ῑ’);”-ξφ(.ῖ)ζσ ...... (93);
+la fonction F(2··) sera donc irreprochcctz've relativement a une puissance
+entiam queleonque y⁷'; mais la dfflivsse F'(z) sera reproductz‘ve de l'ordre
+(σ-Ι) relativement a la meme quantita, c'est-a-dire que
+
+F'Osz) = (γ”)σ“1 . F (⁷) . . . . . . (94) .
+En posant. dans la formule (93),
+F(f:) = ζχ(.ῖ)ἷ”-ἑφ(;ι)ξ“’ = O ...... (95),
+
+cette &quatiou sera de degui ys, par rapport a ε, y desig-nant le plus grand
+des deux nombres (μσ-ὶ-Ι) ou mn, s’ils suffia-ent l'un de l'autre⁷ et leur
+valeur commune7 s'ils sont (egam, ee que nous rem-&semma par la notatiou
+
+ffiff†1
+[γ = max. 1 . ..... . (96) .
+
+m Π s
+
+Or, par rapport {13¹² lkquation (95) est du degre ῃ, et. par
+suite, les 9 racines de cette &quation seront de la forme
+
+ς] 7¹¹ νῆ
+kl Ἰ nvo α ο ι ι 7
+
+Nova Acta Reg. Soc. Se. Ups. Ser. 111. 5
+

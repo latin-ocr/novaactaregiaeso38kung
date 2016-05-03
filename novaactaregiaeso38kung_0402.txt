@@ -1,0 +1,59 @@
+4 M. FALK, ΟΝ THE INTEGRATION or PARTIAL
+
+ 
+
+ 
+
+where A ss bv (3²22 Mc ,- ὂῖιι Mt) 4- >VM) (H Ji} — 3²72 Q)
+dy dost dy doedy clm div ‹Zff cloe chely dy ⁷
+whence B is obtained by interchanging u and v,
+and C = ΞΕ ,Ψ - ss 7³⁷²}
+dy dm dm (ly ‘
+
+Thus A, B and Cdo not involve φ, ψ, φ’, xlst.
+
+From the expressions for p and q it follows, that
+
+ 
+
+(ΝΞ 1- {3- ΒΕ C QFtu- {³}- Μ
+dm <p “ q dal} pczy' dm *²³ dy ‘laist
+Substituting from these the expressions for φ’ and ψ’ in (a), it is easy 10
+&F
+see, that also φ and ψ will disappear entirely, if ZJAJ'F is independent
+ὶῖᾷ) cl&
+
+of them, or ean hy means of the given primitive be freed froin them. This
+has been the ease in the foregoing examples. In the next following this
+expression cannot be made independent of φ and φ, and the differential
+equation will therefore be of the third order.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eriza& z=<D²xL—x,lssp,
+where for the sake of simplieity we suppose <D=qDQr) , ψεψρι).
+Here we have {ll-w = φ (ἓφ -κω, {³5 :qm—241), 3²F Ξ 2(‹s*—1l¹)‚
+ι φ (Ῐψ (ἶτμῖψ
+a²F
+whence ‘Z‘sv‘smr = 2(φ-Ψ)
+{15 {E wss‘(‹f—2220)(2s¹·—1ss²)
+ἀφ dm
+
+and cannot be freed fron] φ and ψ by means of the given primitive.
+
+Em, 5. We return to ex. 3, but now we suppose its differential
+equation of the third order. Substitnting in (a) the expressions for (ρ’ and
+ψ’ from (h), we arrive at an equation of the forn]
+
+ao·÷sss÷yt={†nFl(rp,w) ...... (c),
+where a, β, γ are the eoeffieients in (a) and, therefore, definite functions
+of av ancl y, ζ and η are in the same manner definite funetions of x, 3¹ , p
+and q. As to Fl (φ, ψ), it neither is, nor ean, by the aid of the given
+primitive, be freed from φ and ψ.
+

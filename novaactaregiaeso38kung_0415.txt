@@ -1,0 +1,47 @@
+Dlrrnnenrmn EQUArioNs OF THE πώ ORDER. 17
+
+whence, by putting successively r= 1, 2, 3, ..., (ra—1), all the desired
+relations will appear. These are theu the relations, that must be identi-
+cally satisfied, in order that the values of the differenti-al coefficients of z
+' of the (oz—lr' order may render the equations (15) integrable.
+
+The equations (15) take a much simpIer form, when the equations (30)
+are n distinct integrals of the equation (12), that is: when they satisfy the
+relations (28). In the equations (33) we may, namely, interchange the rows
+01· columns in any way, because then the determinants in their left members
+can not undergo any change except, perhaps, with respect to their signs.
+
+Thus the equations (33) may be written
+
+Ais> ‚ AY> ‚ A? ‚ ‚ AJN-1 Σ Ο · · (34)-
+DX) ‚ ΠΡ , ΒΕΓ) ‚ ‚DQ
+Du', Di, D-j, ···,D‚{.¹
+11:²¹³, Dar-w, Dar», ‚Dr-{³
+Dfpn, Dr», Ην), .D,<;·⁴}>
+
+···········
+
+ΒΨ DQ, Dan-¹), ,DJ-11>
+
+7
+
+Now choosing an arbitrary integer i such that DQO , the relations
+(34) may have their left members multiplied by Dis), that is: we may in the
+determinants, represented by (34), multiply the terms in their first rows by
+that quantity. The determinants in the equations, thus formed, will remain
+unchanged, if from every term of their first rows we subtract the corre-
+sponding ternis of their second rows multiplied by the quantity ΔΥ) . Then,
+in virtue of the equations (28), all the terms in the new first rows will be
+severally zero except the first, so that (34) becomes
+
+Dp> Ago— DPAY’, Ο, 0· ‚ , , ‚ Ο z Ο .. (35)
+Dr> ‚ Dr), 1250, .. .‚ Dru
+
+Dg, D„D.„:,...‚D,;-1
+
+...........
+
+...........
+
+Nova Acta Reg. Soc. Sc, Ups. Ser. 111. :3
+

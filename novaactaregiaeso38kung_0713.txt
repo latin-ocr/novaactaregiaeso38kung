@@ -1,0 +1,43 @@
+TRAm': DE CALCUL GEOMETRIQUE SUPERIEUR. · 115
+
+Reman-que. D'apre'zs 16 11⁰ 132, 168 6616168 (16 convergenoe des
+fonctions Sin K (u), Cos K (n) et HK(u) auront une &tendue quelconque,
+la premisre fonction pouvant 86 (16ν61ορρ6ῑ suivant la formule (88) pour
+σ 2 2, et les deux autres suivant la formule (86) pour Ia meme valeur
+de σ [(294)] Mais, 668 fonctions, oomme nous 16 ferons voir plus loin,
+86 ᾶέν6ΙοΡΡ61Ὸηῐ, d'une manisre plus convenable⁷ en produits infinis.
+
+141. ΤΙιόονὲφηε d'addz'tz‘on. Si l’on pose suivant la formule (114),
+η, = Sin KQ), ξ, = Vsssssff Ξ Cos K(u1)‚ U, = (1—Jc2n3)2= mmm).
+η, -—- sin KQ), ξ, 2 νι-ῖῑς = cos KQ), [12 = (1-k2273)2= nK(u2)¹
+ης, = sin KQ), Es = Vll} = Cos KQ), [13 = (1—Jc2n3)²= OEKQ) '''(335>’
+>⁷4 = Sin KQ), 51 = νιῒηῖ = Cos Koa), ῦς <1——102n352 = mmo]
+et suivant la formule (115),
+²7⁵ = — Sin K(ul †²‘2 -ξ- ²¹³ -{-u4) Ι
+ξ, = Vl———n‘g = CosK(u,÷u2÷ u34-u4) } . . . (336),
+ΠΡ (1-1ε2ηξ)2 = mm ÷212÷213÷21⁴> J
+
+on aura d'aprbs la formule (107), pour σ = 2, n = 1, m = 5 et
+9 = mn = 5, 16 8γ8ῐὸω6 ἐᾳυεῐίοη8 suivant, (μσ-ί- 1) (Stant Ξ 5,
+
+n1<20 mn} ÷oe2nu = ἔιῑ]ι
+n2(a0÷oe1n}÷oe2n:3) = 5202
+n2(20÷001n3÷oe2n3) = {313³
+n4(a0÷oe1n}÷ae2213>=24[14
+
+ηε, (0⁶0 ÷0⁶1273 -1-002272) = 2⁵[l5 Ι
+
+Dans 66 8γ8ῐὲῑῃ6, trois des quatre quantitds u„ αἳ, (ι, et τι, sont
+ivzde'pendantes et une dependante, excepte dans 16 cas οὺ zm ou deum des
+trois parametres αθ, οι, ou οι, sera suppose nul, quand on prendra re-
+spectivement deum ou une des quautitss u„ αἳ, 213 et u, comme variables
+
+ 
+
+independantes [ι]0 72, rem. 1]. En &liminant ao, αι, et a, du systsme (337),
+on aura, suivant la formule (108), les deux squations distinctas,
+
+amn„ ηπ, ’7³2 ῆι) = 0 (338),
+
+00000
+

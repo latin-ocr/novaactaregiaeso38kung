@@ -1,0 +1,48 @@
+DIFFERENTIAL EQUATIONS OF THE nm ORDER. 11
+1⁷=X‘Y—XY‚ ἲ
+Π, 2 Υ’Ζ,,-,,, -* ὶΖΞ-ιμ ‚ Ι
+
+U: μ, (1Ζ - 1Ζ)1Γμζι(ΧΖζ-ζζ - ΧΖ) ἰ . ..(13).
+’ cz: μ,,.,(ΧΖ,ῑ.,,,- Χ4,) J
+
+Ο
+
+Admitting the extreme values μὶ, = Ο, Q: 1 and lum: ,
+pression for Γ, gives also U„ 31111 UH.
+
+ι113.
+
+To inleqrale {lte dg'ff'erenlz'al equalz'on (12), ‘tehen' it has astrst
+zbzleqral os dhe form (3).
+
+The object of a first intcgration of (12) is to return from this diffe-
+16111131 equation 10 3 first integral of it of the form φ --]’(ψ) such as equ,
+(3). In order to find a method of performing that integration we have to
+shew, that the two simultaneous equations
+
+φ = a ‚ ψ = β ........ (14),
+the conditione (11) being satisfied, will also satisfy the equation (12) and
+reproduce it, if (14) be differentiated totally and the differentials 6111111113-
+
+1611 by means of the equations arising from the circumstance, that : is a
+function of ,ι’ 31111 y, viz:
+
+(qu-j: :fil-414¹- sla· -1- &4³41 dy ...... (15),
+where we have 10 put i: O. 1 ‚ 2, . .. 1· successively 31111 111611 r: Ο, 1,
+2, ...,(η-1).
+
+Now (14) gives 11)· differontiation, if 311 differentials, except dx and
+dy, are 61111111131611 by means of (15)
+
+[X ¹ ψ SZ] dm ÷ [Y ψ SA 2‚2,1-2„.,1]dy=0js ··( b),
+
+1⁴:⁷0
+
+and, if herc we eliminate ἷέἶ, 1116 equation (5) is reproduccd, from which
+[Γ
+
+again by means of (11) the differentia] equation (12) may 116 (1611116611.
+
+Upon this mode of deriving 1116 differential equation from (14) a
+method of obtaining 1116 functione φ 31111 ψ may now easily be founded3
+

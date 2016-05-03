@@ -1,0 +1,44 @@
+TRAITE DE CALoUL GIZOMFJTRIQUE SUPERIEUR- 13
+
+rieure donne'e jusqu'c'c ww limite supe'rieure variam, sera une fonction con-
+tinue et finie, mais multg'forme, pour chaque point du cmztour: Za limite su—
+pe'rz'eure‚ au contraire, sera une fonction pespiodique de Z'intessyrale, Ω etant
+la pe'rz'ode.
+
+Rem arque. Nous voyons maintenant (1’01’1 provient cette classe im-
+portante des fonctions qui s'appellent periodiques3 elles sont les limites su-
+9611611165 des integrales multiformes, et fonctions de celles-ci. Bien que
+nous n'ayons encore, par 16 11011011 (1636 (10111166 (16 l⁷integrale definie, 611-
+cun criterium gydne'ral qui decide quand unc integrale (16111116 651 11116 fonc-
+tion uniforme ou multiforme (16 56 11111116 511961161116, 11 y a toutefois bien de
+065, 011 11 est immediatement possible de (1601(101, 51 l'integrale definie cst
+de l'une ou (16 l'autre 659666, comme cela a lieu lorsque 16 valeur de l'iu-
+tegrale est (10111166 961 11116 primitive connue [11⁰ 14, rem. 3]‚ 011 lorsque
+les termes (16 16 56116 (9) 50111 determines, (11161116161115 arguments, (16
+50116 que lem somme ne puisse (1611011116 1116111616 foimer un contour ferme,
+
+par exemple, les 16111165 (16 16 56116 (16 l'integrale s—-. elz , 610. 1)’·69165
+
+0616,11 s’ensuit comme evident qu 1111 criterium ι(16116161, qui 9011116 (16011161-
+quand l'integiale d'une fonction synectique 5616 11116 fonction unifolme 011
+multiforme, (1011 6116 (l’une importance 9611161111616. Νο115 6110115 (10116 faire
+connaitre les enonce's dont depend 06 criterium.
+
+111. THEOREME FONDAMENTAL DE CAUOHY.
+
+17. Nous prenons pour point de (169611 165 deux series (l’integrale
+suivantes,
+
+Eion
+
+jaffe-2) et uersa-1).
+
+Nous supposons, de plus, que les fonctions f(2) et f({) soient synec-
+tiques sur leurs contours respectifs, et qu'entre ζ 61 ε existe la relation,
+
+ξε Ζηιφμμῃι ........ (20),
+
+01¹1 Au (lesigne une quantite petite positive, et φρ) 11116 fonction arbz'traire
+qui n'est (1616111111166 que par 16 condition d'etre synectique sur le contour de
+z et de s'evanouir pour les limites Ζ, 61 Ζ, 0’651-6-(1116 que l'on 611
+

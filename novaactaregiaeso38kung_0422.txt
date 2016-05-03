@@ -1,0 +1,60 @@
+24 M. FALK, On THE Iu'rEGRArioN or PARTIAL
+
+whence by integration
+
+ 
+
+=fo wei-⁷⁶),
+
+'L
+
+f and F being arbitrary functions. Now putting lc φ (Ξ) - F (Ξ) instead
+
+yffi·
+
+x
+
+of f (ξ) and applying Taylors theoren] on F( ) , we get
+
+ki: ke(y)÷f{F¹(y ÷e'fi) (0<e<1).
+
+Now dividing by lc and then putting lc = Ο, the general solution of
+the given equation becomes
+
+22Wo÷sso÷
+
+Em. 4. Before explaining the general theory of non-linear partial
+differential equations of the na, order. we will by a simple example shew,
+how the foregoing theory may be used to integrate such equations. Sup-
+
+pose we have
+ἔμω ³⁴·.1 Ξ f¹(y)‚
+
+f* being a given function. Differentiating partially with respect to x, we get
+²20 ἴοι Ἰ- 31,ο ἷι.ι ΞΟ·
+
+Applying to this equation, which is linear, the foregoing theory,
+
+ψ being put for F¹.
+
+the equation (20) gives the roots ml = Ο, 'm2 = ‘7¹:⁰, The former root re—
+‘ol
+produces the given equation (with an arbitrary function of y instead of f¹)
+
+and is, therefore, of no nse3 the latter reduces the equations (21) and (23) to
+
+dy -.- {3⁰⁷ dm = Ο alld dcl„ Ξ Ο ·
+*⁴04
+
+The latter of these gives εΗ, = οι, which, in connection with the
+equation ds Ξ 21„ ἅψ- ἧ- ιο] dy (or, in this case, ds: 2:1'0 dm), gives
+z = “hro cc -1- β
+
+as a complete first integral. This, in connection with the given equation,
+· ε 2oe .
+gives ,χο = ἢῆ, ³0³ = ἔζβ j⁴(3()3
+
+and, as these values are obtained from two distinct first integrals of the
+same partial diff. equ. of the second order, they will render the equation
+d: ἶ ²10 dm ÷ σοι dy integrable. Thus we get
+
